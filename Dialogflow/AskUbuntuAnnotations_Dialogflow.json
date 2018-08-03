@@ -1,0 +1,3819 @@
+{
+    "results": [
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:29.927Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "What software can I use to view epub documents?",
+                "source": "agent",
+                "score": 0.5899999737739563,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "7893103f-3724-449a-bb62-06f268e4876a"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:30.228Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Which PDF Viewer would you recommend?",
+                "source": "agent",
+                "score": 0.36000001430511475,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "d1aec28a-5e87-4ba0-86b6-5f0aa85287a7"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:30.528Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "What IDEs are available for Ubuntu?",
+                "source": "agent",
+                "score": 0.9599999785423279,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "6184dea3-dea5-4abd-ad76-f52718b44b4a"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:30.803Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "What's the best Mind Mapping Software?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Sorry, what was that?",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "I missed what you said. What was that?"
+                },
+                "actionIncomplete": false,
+                "action": "input.unknown",
+                "metadata": {
+                    "intentId": "fda65a83-00b4-49fd-a1e7-3cde1033bcc0",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "4a6ae9f8-fccc-49bc-bb22-8768a4094d4b"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:31.1Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Software to read a QR code?",
+                "source": "agent",
+                "score": 0.36000001430511475,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "b098088f-50c3-45d4-9a90-65435721ff1c"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:31.376Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "PDF to word conversion software?",
+                "source": "agent",
+                "score": 0.5099999904632568,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "2711e410-deeb-4423-80ad-1eccc3d40060"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:31.715Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Is there software that can view .dwg files?",
+                "source": "agent",
+                "score": 0.5199999809265137,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "8e6028f7-c11e-493c-8bad-8b2dc37ac1ab"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:32.041Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "What are some good PHP editors?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "I missed that, say that again?",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "I didn't get that. Can you repeat?"
+                },
+                "actionIncomplete": false,
+                "action": "input.unknown",
+                "metadata": {
+                    "intentId": "fda65a83-00b4-49fd-a1e7-3cde1033bcc0",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "b175d0ea-428f-415c-a99d-c8f614d29d4b"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:32.374Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Is there a software utility to adjust screen gamma/brightness/contrast?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "I didn't get that. Can you say it again?",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "I didn't get that. Can you say it again?"
+                },
+                "actionIncomplete": false,
+                "action": "input.unknown",
+                "metadata": {
+                    "intentId": "fda65a83-00b4-49fd-a1e7-3cde1033bcc0",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "e3bc9778-22cf-4a06-90e2-ef2faea4f385"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:32.766Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Please recommend a hex editor for shell",
+                "source": "agent",
+                "score": 0.5199999809265137,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "e4193b2d-64b3-4202-9f45-7429d23bf4b9"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:33.067Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Is there LAN topology mapping software available in Ubuntu?",
+                "source": "agent",
+                "score": 0.7300000190734863,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "825d9550-4afe-47b6-8df2-0ff4592d5eac"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:33.398Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Is there a tool like wifi analyzer for ubuntu?",
+                "source": "agent",
+                "score": 0.6100000143051147,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "3d34a6b5-55bd-4855-a3d9-c8c367d8ab1b"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:33.68Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Tool for recovering deleted data from a flash drive",
+                "source": "agent",
+                "score": 0.3700000047683716,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "af64389f-035f-49c1-a34f-81647c208ee6"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:33.991Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "What's a simple \"colour picker\" app for GNOME?",
+                "source": "agent",
+                "score": 0.47999998927116394,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "eda66fa0-dd91-4c3a-b663-0684d792fe3f"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:34.286Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Any app that tells me to take regular breaks from working?",
+                "source": "agent",
+                "score": 0.3499999940395355,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "9fb49240-d808-4f94-9a43-00441df37bcc"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:35.062Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "What are some good ASCII art generators?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "One more time?",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "What was that?"
+                },
+                "actionIncomplete": false,
+                "action": "input.unknown",
+                "metadata": {
+                    "intentId": "fda65a83-00b4-49fd-a1e7-3cde1033bcc0",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "db659736-e6ce-488d-8ea9-99713642db1c"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:35.353Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "What are some good GUI binary viewers/editors?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "I didn't get that. Can you repeat?",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Sorry, could you say that again?"
+                },
+                "actionIncomplete": false,
+                "action": "input.unknown",
+                "metadata": {
+                    "intentId": "fda65a83-00b4-49fd-a1e7-3cde1033bcc0",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "7585c95a-2376-442d-bc5a-844ada673df5"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:35.675Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Which is the best PDF metadata viewer for Ubuntu?",
+                "source": "agent",
+                "score": 0.44999998807907104,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "7fe1b2db-6f60-4378-969d-e80b5aebce18"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:36.005Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Is there a Linux file manager with a proper drop-down tree view? (like finder in OS X)",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "One more time?",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Sorry, what was that?"
+                },
+                "actionIncomplete": false,
+                "action": "input.unknown",
+                "metadata": {
+                    "intentId": "fda65a83-00b4-49fd-a1e7-3cde1033bcc0",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "4969a193-a7f3-4c6a-910e-198b54e64097"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:36.308Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Which application do you recommend for watching TV (DVB)?",
+                "source": "agent",
+                "score": 0.47999998927116394,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "bfb429af-235e-413f-b952-9d3ab00cf9ef"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:36.649Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "What Is The Best HDR Software?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "I missed what you said. What was that?",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Sorry, I didn't get that. Can you rephrase?"
+                },
+                "actionIncomplete": false,
+                "action": "input.unknown",
+                "metadata": {
+                    "intentId": "fda65a83-00b4-49fd-a1e7-3cde1033bcc0",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "3cc65b91-72ad-4aad-8001-5c66b43ab7cb"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:36.947Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "What do you use to edit Microsoft Word documents (docx)?",
+                "source": "agent",
+                "score": 0.5400000214576721,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "48279cf5-3820-4499-a38f-97123d6e05eb"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:37.232Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "What's the best Wireframing tool?",
+                "source": "agent",
+                "score": 0.4000000059604645,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "9daeab5a-3c65-45c4-b3cd-562db5309b95"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:37.57Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Is there any software that will do face recognition in photos?",
+                "source": "agent",
+                "score": 0.3400000035762787,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "44c3ce5a-08e9-44b5-b9d5-b66f07076e42"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:37.862Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Applications to replace iTunes for iPod synchronization?",
+                "source": "agent",
+                "score": 0.550000011920929,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "ed740afe-e7b1-414e-a816-959bec6cd390"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:38.464Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Is there an SSH connection manager?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "I didn't get that. Can you say it again?",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "I didn't get that. Can you say it again?"
+                },
+                "actionIncomplete": false,
+                "action": "input.unknown",
+                "metadata": {
+                    "intentId": "fda65a83-00b4-49fd-a1e7-3cde1033bcc0",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "c2f90738-b3d7-41ac-8e2a-b49a553787cd"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:38.738Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "A light alternative to gnome-system-monitor?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Sorry, could you say that again?",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "One more time?"
+                },
+                "actionIncomplete": false,
+                "action": "input.unknown",
+                "metadata": {
+                    "intentId": "fda65a83-00b4-49fd-a1e7-3cde1033bcc0",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "c88da6f3-831e-4659-b64c-69c8b3e27074"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:39.002Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Software to create a video slideshow?",
+                "source": "agent",
+                "score": 0.38999998569488525,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "903338c7-c8ed-4489-8888-5b643325cf4d"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:39.355Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Is there a project management software for Ubuntu like Microsoft Project?",
+                "source": "agent",
+                "score": 0.6399999856948853,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "aced9c28-68ee-449b-89c8-0ab571986343"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:39.647Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Is there any recovery software available for ext4?",
+                "source": "agent",
+                "score": 0.7699999809265137,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "74ba4d5e-fc1f-45f2-bc72-6fa1ecb904ef"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:39.935Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "What blog editor software are available?",
+                "source": "agent",
+                "score": 0.8100000023841858,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "0b91f16d-5ced-49ed-b0bc-5b40d7f6957d"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:40.292Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Can you recommend a good modern GUI download manager (wget wrapper?)",
+                "source": "agent",
+                "score": 0.7099999785423279,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "a52c1a2d-e5f2-48cc-8a1f-8c6efb828232"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:40.63Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Is there any program for fuzzy string matching which provides a match score?",
+                "source": "agent",
+                "score": 0.36000001430511475,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "5fd23131-8644-4da6-bcd9-2f8e5940a6f8"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:40.961Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Are there any hardware diagnostic tools?",
+                "source": "agent",
+                "score": 0.4300000071525574,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "9b1a089a-4785-4b9a-9db1-171f23ab5d75"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:41.222Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Recommendation for Regex editor?",
+                "source": "agent",
+                "score": 0.5199999809265137,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "29ffbea5-380b-422e-a9ab-99728fa5818e"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:41.556Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Is there a Document scanning and archiving software?",
+                "source": "agent",
+                "score": 0.3100000023841858,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "26f31ea5-fc6c-4766-9fb8-4fdc5a02ded6",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Software Recommendation",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "e8c8af20-a886-464c-83d6-85ef05c2b794"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:41.826Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Keyboard shortcut to shutdown?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "8dcaac9b-2c3c-4544-941b-f601a8c07d35",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Shutdown Computer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "b0e92060-bbfd-43dc-bb67-e3ee157126a5"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:42.121Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "My system doesn't go shutdown",
+                "source": "agent",
+                "score": 0.7799999713897705,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "8dcaac9b-2c3c-4544-941b-f601a8c07d35",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Shutdown Computer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "7e6c3ec9-faf6-4d78-a928-22d41ef88185"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:42.514Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How to troubleshoot slow shutdown?",
+                "source": "agent",
+                "score": 0.9900000095367432,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "8dcaac9b-2c3c-4544-941b-f601a8c07d35",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Shutdown Computer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "8387eb3b-015e-4163-a90d-58c7e9a56d0f"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:42.896Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How can I shutdown the computer when a certain process ends?",
+                "source": "agent",
+                "score": 0.800000011920929,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "8dcaac9b-2c3c-4544-941b-f601a8c07d35",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Shutdown Computer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "9e76c70f-b5dc-48cd-826d-430e64fc2c20"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:43.227Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Ubuntu Shut down app",
+                "source": "agent",
+                "score": 0.5,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "8dcaac9b-2c3c-4544-941b-f601a8c07d35",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Shutdown Computer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "770f5cb1-839c-46dd-accf-05f493bd10e2"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:43.727Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "What does my computer do when I click 'Shut Down'?",
+                "source": "agent",
+                "score": 0.5099999904632568,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "8dcaac9b-2c3c-4544-941b-f601a8c07d35",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Shutdown Computer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "13ee49e8-f7d8-4980-9c56-063e5d43194e"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:44.082Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How do I shut down without the confirmation prompt?",
+                "source": "agent",
+                "score": 0.6000000238418579,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "8dcaac9b-2c3c-4544-941b-f601a8c07d35",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Shutdown Computer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "502c071f-690b-4cc0-af56-30af1b3d5635"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:44.362Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "No action when shutdown pressed",
+                "source": "agent",
+                "score": 0.8299999833106995,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "8dcaac9b-2c3c-4544-941b-f601a8c07d35",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Shutdown Computer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "982d14bb-d8e6-4f65-8bfc-8a328c3943be"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:44.676Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "what is the right way to shutdown ubuntu using the command line?",
+                "source": "agent",
+                "score": 0.699999988079071,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "8dcaac9b-2c3c-4544-941b-f601a8c07d35",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Shutdown Computer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "bb8f1885-0a22-4cbe-a749-3a532400f9cd"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:45.031Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How can I make shutdown not require admin password?",
+                "source": "agent",
+                "score": 0.699999988079071,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "8dcaac9b-2c3c-4544-941b-f601a8c07d35",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Shutdown Computer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "897f8893-03dd-413b-a5e3-85649da611ed"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:45.304Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "shutdown in specific way if no-one uses computer",
+                "source": "agent",
+                "score": 0.8799999952316284,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "8dcaac9b-2c3c-4544-941b-f601a8c07d35",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Shutdown Computer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "4922bb74-d152-4517-97a4-236e18ae7001"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:45.853Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "What is the command to open the shutdown dialog?",
+                "source": "agent",
+                "score": 0.8199999928474426,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "8dcaac9b-2c3c-4544-941b-f601a8c07d35",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Shutdown Computer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "a5160d2c-9846-4245-a9db-79f9f8383cd1"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:46.368Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How to Shut down Ubuntu by using keyboard?",
+                "source": "agent",
+                "score": 0.6800000071525574,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "8dcaac9b-2c3c-4544-941b-f601a8c07d35",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Shutdown Computer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "178b161c-0646-47b7-bb7c-b648b0120632"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:46.691Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "shutdown 5:30pm every day",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "8dcaac9b-2c3c-4544-941b-f601a8c07d35",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Shutdown Computer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "48cb19f8-626a-4b84-86e9-8cd2580f75ba"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:47.012Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Upgrading from 11.10 to 12.04",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "32c7d0cc-e5ab-404e-8579-777cb2496d53"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:47.446Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How do I upgrade to the release version of 16.04 if I am running Beta?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Say that one more time?",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Sorry, could you say that again?"
+                },
+                "actionIncomplete": false,
+                "action": "input.unknown",
+                "metadata": {
+                    "intentId": "fda65a83-00b4-49fd-a1e7-3cde1033bcc0",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "faad5325-7e1a-4bc6-a482-4c7258ee51bc"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:47.717Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Doubts regarding the 15.04 upgrade (is it inevitable and unavoidable?)",
+                "source": "agent",
+                "score": 0.5699999928474426,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "b1b29afa-04c2-4008-9e59-206b15a8058f"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:48.094Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Is any offline upgrade from 13.10 to 14.04 possible?",
+                "source": "agent",
+                "score": 0.7400000095367432,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "0983d18e-af8a-463a-b356-e157afaccbbe"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:48.464Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Upgrading from ubuntu 12.04 to 13.10",
+                "source": "agent",
+                "score": 0.7900000214576721,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "a37d7010-7ef8-4e00-886d-417a5f7e5751"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:48.771Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Ubuntu upgrade failed",
+                "source": "agent",
+                "score": 0.49000000953674316,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "dd4b55be-1b93-406d-84f5-54a3797bd954"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:49.084Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Upgrading from 12.04 to 13.10 ( Unanswered questions )",
+                "source": "agent",
+                "score": 0.800000011920929,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "1fd4be2e-7e74-46c8-b23b-57b4a76e7c3a"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:49.441Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "upgrading to Ubuntu 13.10 from Ubuntu 13.04",
+                "source": "agent",
+                "score": 0.5600000023841858,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "babe49fe-5e93-45f1-b320-5d0b3eea7db5"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:49.73Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Is it recommended to upgrade to Lubuntu 15.04?",
+                "source": "agent",
+                "score": 0.550000011920929,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "e9a78bb7-3d72-471d-a483-b215d746669a"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:50.049Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Force upgrade 12.10 to 13.04",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "34be370e-bb4c-477e-a706-8a1e0bc6b969"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:50.34Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How to partially upgrade Ubuntu 11.10 from Ubuntu 11.04?",
+                "source": "agent",
+                "score": 0.5799999833106995,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "74663ce1-48f0-4c04-864e-09a8193380d3"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:50.656Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Problem upgrading Ubuntu 9.10",
+                "source": "agent",
+                "score": 0.5199999809265137,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "720fadfe-06e8-48c0-ac87-a8d2350697ed"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:50.994Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Is it necessary to upgrade to 15.10 from 14.04?",
+                "source": "agent",
+                "score": 0.800000011920929,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "aa49716b-be8d-4ebc-a9e0-e259a2a34e00"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:51.335Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How do I update Xubuntu 11.10 to Xubuntu 12.04 LTS?",
+                "source": "agent",
+                "score": 0.6100000143051147,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "a518283d-a89a-40e7-8efa-1e573ed35494"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:51.606Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Why did the upgrade from 11.10 to 12.04 ruin my system?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "a15cfaa2-0e79-481a-8fd4-26565b4cb8df"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:51.932Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Problems upgrading from 12.04 to 14.04",
+                "source": "agent",
+                "score": 0.8500000238418579,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "5b26f87e-57e7-4f31-ba3f-a8f1f96de574"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:52.254Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Problems upgrading Ubuntu 12.10 to 13.04",
+                "source": "agent",
+                "score": 0.7300000190734863,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "53036221-e3ec-49a4-ba03-8fb4a7f812d2"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:52.587Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Upgrade from 12.04 to 12.10 without losing files?",
+                "source": "agent",
+                "score": 0.949999988079071,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "982a5647-914a-4c42-a91e-2d370e15e9f8"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:52.856Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "On really old Ubuntu 6.06 - How to upgrade",
+                "source": "agent",
+                "score": 0.3400000035762787,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "9c925a8c-04cb-469b-b44e-759a2d43a787"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:53.175Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Do I need to uninstall 10.04 to upgrade to 12.04?",
+                "source": "agent",
+                "score": 0.6600000262260437,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "8cc6fcad-f915-4686-a5a8-388c19524fbf"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:53.462Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Do I need to reinstall everything to upgrade from 13.10 to 14.10?",
+                "source": "agent",
+                "score": 0.41999998688697815,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "a64e181e-cad1-4fc4-aa51-df82950bb8b5"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:53.787Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "update-manager: upgrade to 15.04 rather than 16.04",
+                "source": "agent",
+                "score": 0.6200000047683716,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "b7871389-a955-4bf3-8750-ec769ac7932b"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:54.146Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Upgrading 16.04 to 16.04.1",
+                "source": "agent",
+                "score": 0.49000000953674316,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "21d378fc-9281-4a8e-ad3b-aa1ee5bc70c6"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:54.434Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Upgrading Ubuntu Server 9.10 to 10.04",
+                "source": "agent",
+                "score": 0.6399999856948853,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "9b947fca-e69f-4050-88e4-279bff44fa04"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:54.703Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Ho do I update to 13.04 from the beta?",
+                "source": "agent",
+                "score": 0.49000000953674316,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "14f46a21-6651-4be2-8dba-9e4c4ccec78a"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:55.009Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How to upgrade from 12.10 to 14.04",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "dc439c49-b301-415a-a61d-0a91428cd8a9"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:55.309Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Upgrading from 10.10 to 11.04 how much space is needed?",
+                "source": "agent",
+                "score": 0.8799999952316284,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "64d8a601-a0cc-4adf-98a7-ec6aa05d14dd"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:55.603Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Do I need to backup my 12.04 system to upgrade to 12.04.1?",
+                "source": "agent",
+                "score": 0.5899999737739563,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "d8f5c164-7152-431c-8bba-f774bcd8490a"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:55.945Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Cannot upgrade from 12.04LTS to 14.04",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "c2dfdb25-c8b4-41b8-80fa-2d7aa9ec22d5"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:56.267Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Upgrade 10.10 to 11.04",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "aac60490-fa76-4051-9099-f0dc8f96be6c"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:56.593Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How to upgrade from 14.04 LTS or 15.10 to 16.04 from terminal",
+                "source": "agent",
+                "score": 0.8399999737739563,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "6fa0a46a-9608-44ad-b17f-4167c9b1279c"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:56.922Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How to upgrade from 16.04 LTS to 16.04.1 LTS",
+                "source": "agent",
+                "score": 0.6100000143051147,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "32d2c2b0-0391-413b-828e-9b9a0d9fd04d"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:57.24Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Upgrading from 10.04 to 11.10",
+                "source": "agent",
+                "score": 0.8899999856948853,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "b34131f9-2d6d-41b0-9b1b-7c95b4a33228"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:57.576Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How can i upgrade to Ubuntu 14.04 final from 14.04 Beta correctly?",
+                "source": "agent",
+                "score": 0.4699999988079071,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "05534142-d9d9-4787-89ff-c94a726a91a4"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:57.885Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Is there an upgrade procedure from 12.04 LTS to 14.04 LTS",
+                "source": "agent",
+                "score": 0.8999999761581421,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "e2509ffd-8500-47c4-80dd-a24ad881738c"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:58.197Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Upgrade from 9.10 to 11.04",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "3afc5a8f-5826-4a6b-ae5b-e3d67ca08b83"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:58.594Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How to upgrade Ubuntu 12.04 to 14.04 if I have dual boot with windows 7?",
+                "source": "agent",
+                "score": 0.8500000238418579,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "86679314-5c88-4a1e-902e-6501e2ebd235"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:58.909Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Wubi Device /dev/loop0 full. How to get more space?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "One more time?",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "I missed what you said. What was that?"
+                },
+                "actionIncomplete": false,
+                "action": "input.unknown",
+                "metadata": {
+                    "intentId": "fda65a83-00b4-49fd-a1e7-3cde1033bcc0",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "9f92f7e5-1251-4c08-8eb3-afd4161a5d39"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:59.174Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Using 12.04 can I compile packages with gcc for 10.04?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Sorry, I didn't get that. Can you rephrase?",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Can you say that again?"
+                },
+                "actionIncomplete": false,
+                "action": "input.unknown",
+                "metadata": {
+                    "intentId": "fda65a83-00b4-49fd-a1e7-3cde1033bcc0",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "fa37346b-e021-4838-959d-cde95949ff8b"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:59.499Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Removing Recently used items in 12.04",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Say that one more time?",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "I missed what you said. What was that?"
+                },
+                "actionIncomplete": false,
+                "action": "input.unknown",
+                "metadata": {
+                    "intentId": "fda65a83-00b4-49fd-a1e7-3cde1033bcc0",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "8c1e81e6-a8e5-4c53-9409-03893de85208"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:19:59.791Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Upgrading From 11.04 (32bit) to 12.04 (64bit)",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "3f8de935-c896-4260-9d8c-8280348b24fc",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Make Update",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "a163e185-d83b-47b7-8aa4-314f76580790"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:20:00.094Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How is rm command different from the delete button?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "I missed what you said. What was that?",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Sorry, can you say that again?"
+                },
+                "actionIncomplete": false,
+                "action": "input.unknown",
+                "metadata": {
+                    "intentId": "fda65a83-00b4-49fd-a1e7-3cde1033bcc0",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "3288b05c-a9bd-41a8-8519-3503e3884b0b"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:20:00.366Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "In Unity how do I see the details of a given launcher?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "I didn't get that. Can you repeat?",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Sorry, I didn't get that. Can you rephrase?"
+                },
+                "actionIncomplete": false,
+                "action": "input.unknown",
+                "metadata": {
+                    "intentId": "fda65a83-00b4-49fd-a1e7-3cde1033bcc0",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "f22b05ce-2b94-421e-88d2-421e9195696f"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:20:00.678Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How to provide user permission to read and write on /dev/sdax? What is the syntax?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Sorry, I didn't get that. Can you rephrase?",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "I missed that, say that again?"
+                },
+                "actionIncomplete": false,
+                "action": "input.unknown",
+                "metadata": {
+                    "intentId": "fda65a83-00b4-49fd-a1e7-3cde1033bcc0",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "7df4e10a-0809-44da-955b-543663060de4"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:20:00.952Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Security enhancements prevent mounting /dev/sdb1",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "What was that?",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "I missed that, say that again?"
+                },
+                "actionIncomplete": false,
+                "action": "input.unknown",
+                "metadata": {
+                    "intentId": "fda65a83-00b4-49fd-a1e7-3cde1033bcc0",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "69c0de3b-54d0-4b65-b1e7-58c205d95822"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:20:01.272Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How do I show grub when resuming from suspend?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Can you say that again?",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "What was that?"
+                },
+                "actionIncomplete": false,
+                "action": "input.unknown",
+                "metadata": {
+                    "intentId": "fda65a83-00b4-49fd-a1e7-3cde1033bcc0",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "516f8580-dfe3-49a4-ad2a-f66a6fdbf31c"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:20:01.62Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How to install a Lexmark z600 series printer?",
+                "source": "agent",
+                "score": 0.7200000286102295,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "45cf812e-5a7f-40fa-afc5-44c83639969f",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Setup Printer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "47b35692-cd45-4f34-879e-588e639bc1ce"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:20:01.889Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Cannot setup HP All in one DJ3630",
+                "source": "agent",
+                "score": 0.3499999940395355,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "45cf812e-5a7f-40fa-afc5-44c83639969f",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Setup Printer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "a12eb79d-f646-447e-91ea-79bb7418758e"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:20:02.206Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How to add a network printer on Ubuntu 15.10?",
+                "source": "agent",
+                "score": 0.6499999761581421,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "45cf812e-5a7f-40fa-afc5-44c83639969f",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Setup Printer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "038b5a71-1622-45f6-836b-c01528bdb805"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:20:02.498Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Cannot install printer driver epson l210",
+                "source": "agent",
+                "score": 0.8199999928474426,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "45cf812e-5a7f-40fa-afc5-44c83639969f",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Setup Printer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "629cbc03-eb5d-4741-939b-5a864e9b5def"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:20:02.854Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How do I install Dell 2150cdn printer",
+                "source": "agent",
+                "score": 0.699999988079071,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "45cf812e-5a7f-40fa-afc5-44c83639969f",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Setup Printer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "312b7c44-5681-452a-8f6a-a08faf2f3bfa"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:20:03.182Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Installing Epson XP-424 wireless printer",
+                "source": "agent",
+                "score": 0.6299999952316284,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "45cf812e-5a7f-40fa-afc5-44c83639969f",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Setup Printer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "06e03d3e-9912-4a3a-8bd7-54ad56f4d786"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:20:03.469Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Installing EPSON L355 on Ubuntu 14.04",
+                "source": "agent",
+                "score": 0.6899999976158142,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "45cf812e-5a7f-40fa-afc5-44c83639969f",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Setup Printer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "5886e61b-d687-43ba-97ba-ab43d78c47f7"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:20:03.818Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How do I install the HP F4280 printer?",
+                "source": "agent",
+                "score": 0.7400000095367432,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "45cf812e-5a7f-40fa-afc5-44c83639969f",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Setup Printer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "ae2ae053-be76-408a-82d4-8f17da6d22c4"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:20:04.253Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How to Install Brother DCP-8110DN Laser Printer on Ubuntu?",
+                "source": "agent",
+                "score": 0.7599999904632568,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "45cf812e-5a7f-40fa-afc5-44c83639969f",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Setup Printer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "272352ee-6c90-45e2-ad82-a001e0344b43"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:20:04.564Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How to Install a Canon MF8040Cn Printer on Ubuntu 12.04",
+                "source": "agent",
+                "score": 0.8999999761581421,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "45cf812e-5a7f-40fa-afc5-44c83639969f",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Setup Printer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "5c4b3404-e86e-43a9-a7e0-b6215e95d77b"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:20:04.922Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How Do I Install Canon MF8000C Printer in Ubuntu 15.10?",
+                "source": "agent",
+                "score": 0.800000011920929,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "45cf812e-5a7f-40fa-afc5-44c83639969f",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Setup Printer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "1eaa08ad-09f5-4afd-98ad-0deda4ead7d9"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:20:05.229Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How to install Canon LBP330 in Lts 16.04",
+                "source": "agent",
+                "score": 0.4699999988079071,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "45cf812e-5a7f-40fa-afc5-44c83639969f",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Setup Printer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "35117e71-7450-4d40-9766-10cca4340f41"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:20:05.548Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Install printer Lexmark X4690 (ubuntu 12.04)",
+                "source": "agent",
+                "score": 0.8999999761581421,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "45cf812e-5a7f-40fa-afc5-44c83639969f",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "Setup Printer",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "89fecd6b-3aaf-41ac-a873-23dc073d9202"
+        }
+    ]
+}

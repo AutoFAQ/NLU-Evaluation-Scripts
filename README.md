@@ -1,68 +1,27 @@
-# NLU-Evaluation-Scripts
-Python scripts for automatically evaluating NLU services (API.ai, IBM Watson Conversation, Microsoft LUIS, RASA) based on the format used by [NLU-Evaluation-Corpora](https://github.com/sebischair/NLU-Evaluation-Corpora).
+# Methodology
+We reproduce analysis from [Evaluating Natural Language Understanding Services for Conversational Question Answering Systems by Braun, Daniel  and  Hernandez-Mendez, Adrian  and  Matthes, Florian  and  Langen, Manfred (2017)](http://www.aclweb.org/anthology/W17-5522), 
 
-## Training
-You can use the converters to create .json- or .zip-files with training data which can be imported into the respective NLU service using the web interface.
+We use our own split for the chat corpus provided in `TransportCorpusSplit.json` as the author's split has not been published and this is the most transparent and reproducible approach. Note results are not directly comparable to the original paper.
 
-### Microsoft Luis
-```python
-#luis (also works for rasa)
-luis_converter = LuisConverter()
-luis_converter.import_corpus("WebApplicationsCorpus.json")
-luis_converter.export("WebApplicationsTraining_Luis.json")
-```
-You can also use the Luis file format to train Rasa, however, we recommend using the Dialogflow data format for training Rasa.
+Forking their [NLU-Evaluation-Scripts](https://github.com/sebischair/NLU-Evaluation-Scripts), results are obtained by running the converter scripts, importing and setting up respective bots and finally running the analysis scripts.
 
-### IBM Watson Conversation
-```python
-#watson
-watson_converter = WatsonConverter()
-watson_converter.import_corpus("WebApplicationsCorpus.json")
-watson_converter.export("WebApplicationsTraining_Watson.json")
-```
-### Dialogflow (formerly known as API.ai)
-```python
-#dialogflow (also works for rasa)
-dialogflow_converter = DialogflowConverter()
-dialogflow_converter.import_corpus("WebApplicationsCorpus.json")
-dialogflow_converter.export("WebApplicationsTraining_Dialogflow.zip")
-```
+We have benchmarked Microsoft LUIS and Google's Dialogflow as of June 2018.
 
-## Evaluation
-You can use the analysers to annotate the test data and generate a .json-file with an evaluation of the annotations.
+| corpus           | num of intents | train | test |
+| ---------------- | -------------- | ----- | ---- |
+| Chatbot          | 2              | 100   | 106  |
+| Ask Ubuntu       | 5              | 53    | 109  |
+| Web Applications | 8              | 30    | 59   |
 
-### Microsoft Luis
-```python
-#luis
-luis_analyser = LuisAnalyser("application_id", "subscription_key")
-luis_analyser.get_annotations("WebApplicationsCorpus.json", "WebApplicationsAnnotations_Luis.json")
-luis_analyser.analyse_annotations("WebApplicationsAnnotations_Luis.json", "WebApplicationsCorpus.json", "WebApplicationsAnalysis_Luis.json")
-```
-### IBM Watson Conversation
-```python
-#watson
-watson_analyser = WatsonAnalyser("workspace_id", "user", "password")
-watson_analyser.get_annotations("WebApplicationsCorpus.json", "WebApplicationsAnnotations_Watson.json")
-watson_analyser.analyse_annotations("WebApplicationsAnnotations_Watson.json", "WebApplicationsCorpus.json", "WebApplicationsAnalysis_Watson.json")
-```
-### Dialogflow (formerly known as API.ai)
-```python
-#dialogflow
-dialogflow_analyser = DialogflowAnalyser("api_key")
-dialogflow_analyser.get_annotations("WebApplicationsCorpus.json", "WebApplicationsAnnotations_Dialogflow.json")
-dialogflow_analyser.analyse_annotations("WebApplicationsAnnotations_Dialogflow.json", "WebApplicationsCorpus.json", "WebApplicationsAnalysis_Dialogflow.json")
-```
 
-### Rasa NLU
-In order to evaluate the annotations from Rasa, you have to start the Rasa server with the option "-e luis".
-```python
-#rasa
-rasa_analyser = RasaAnalyser("http://localhost:5000/parse")
-rasa_analyser.get_annotations("WebApplicationsCorpus.json", "WebApplicationsAnnotations_Rasa.json")
-rasa_analyser.analyse_annotations("WebApplicationsAnnotations_Rasa.json", "WebApplicationsCorpus.json", "WebApplicationsAnalysis_Rasa.json")
-```
+# Results
 
-## Contact Information
-If you have any questions, please contact:
+The necessary Zip/JSON files to import flows and full annotation and result files are provided in respective folders.
 
-[Daniel Braun](https://wwwmatthes.in.tum.de/pages/41usp76zyc49/Daniel-Braun) (Technical University of Munich) daniel.braun@tum.de
+F1-Scores as computed in Braun et al.:
+
+| Platform\Corpus  | Chatbot | Ask Ubuntu | Web Applications | Overall |
+| ---------------- | ------- | ---------- | ---------------- | ------- |
+| Cognigy          | 0.97    | 0.89       | 0.76             | 0.87    |
+| Luis             | 1.00    | 0.88       | 0.78             | 0.87    |
+| DialogFlow       | 1.00    | 0.80       | 0.76             | 0.83    |

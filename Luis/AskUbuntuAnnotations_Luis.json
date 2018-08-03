@@ -1,0 +1,3888 @@
+{
+    "results": [
+        {
+            "query": "What software can I use to view epub documents?",
+            "topScoringIntent": {
+                "score": 0.5802004,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.5802004,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0416359,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0215152744,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0164809078,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.01166222,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Which PDF Viewer would you recommend?",
+            "topScoringIntent": {
+                "score": 0.851431847,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.851431847,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0245457683,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.01966569,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.008109662,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.005757465,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "What IDEs are available for Ubuntu?",
+            "topScoringIntent": {
+                "score": 0.9045174,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.9045174,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.02103124,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.014628293,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.00713194348,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.005801938,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "What's the best Mind Mapping Software?",
+            "topScoringIntent": {
+                "score": 0.5228812,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.5228812,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0387700126,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0208468474,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.020508131,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.009640555,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Software to read a QR code?",
+            "topScoringIntent": {
+                "score": 0.597451448,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.597451448,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0373199545,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0239477679,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.009435558,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.00793892,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "PDF to word conversion software?",
+            "topScoringIntent": {
+                "score": 0.797851741,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.797851741,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.02892426,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0259536076,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.00586883444,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0048272335,
+                    "intent": "Setup Printer"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Is there software that can view .dwg files?",
+            "topScoringIntent": {
+                "score": 0.650339246,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.650339246,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.028643921,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0202260967,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.016799571,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0131688165,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "What are some good PHP editors?",
+            "topScoringIntent": {
+                "score": 0.816559136,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.816559136,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0328485,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0208131764,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.00644455664,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.00520045869,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Is there a software utility to adjust screen gamma/brightness/contrast?",
+            "topScoringIntent": {
+                "score": 0.2654411,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.2654411,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0815199763,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.05254502,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0214677714,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0175085086,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Please recommend a hex editor for shell",
+            "topScoringIntent": {
+                "score": 0.592386544,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.592386544,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0362476967,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0213705637,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0139388,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.006420436,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Is there LAN topology mapping software available in Ubuntu?",
+            "topScoringIntent": {
+                "score": 0.7775625,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.7775625,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0403767638,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.02349884,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0126766227,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.006060799,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Is there a tool like wifi analyzer for ubuntu?",
+            "topScoringIntent": {
+                "score": 0.652727365,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.652727365,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.06113253,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.03032168,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0129131423,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.006656273,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Tool for recovering deleted data from a flash drive",
+            "topScoringIntent": {
+                "score": 0.4522477,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.4522477,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.03882714,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0244987737,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0162045266,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0128291575,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "What's a simple \"colour picker\" app for GNOME?",
+            "topScoringIntent": {
+                "score": 0.3612925,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.3612925,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.07528051,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.03558359,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0186552051,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0138858352,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Any app that tells me to take regular breaks from working?",
+            "topScoringIntent": {
+                "score": 0.325662643,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.325662643,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0436401665,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.04217485,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0288127586,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0134776095,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "What are some good ASCII art generators?",
+            "topScoringIntent": {
+                "score": 0.5610279,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.5610279,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0427418835,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0206388626,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0146023333,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.007992381,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "What are some good GUI binary viewers/editors?",
+            "topScoringIntent": {
+                "score": 0.8535967,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.8535967,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0244244728,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0201271437,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.009562102,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.008698663,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Which is the best PDF metadata viewer for Ubuntu?",
+            "topScoringIntent": {
+                "score": 0.673551,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.673551,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0553870872,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0267654434,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0135131637,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.00788226,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Is there a Linux file manager with a proper drop-down tree view? (like finder in OS X)",
+            "topScoringIntent": {
+                "score": 0.283103049,
+                "intent": "Setup Printer"
+            },
+            "intents": [
+                {
+                    "score": 0.283103049,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.168977186,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.07521951,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.044356294,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.00648000557,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Which application do you recommend for watching TV (DVB)?",
+            "topScoringIntent": {
+                "score": 0.7036291,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.7036291,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.04931485,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.02336667,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0143663445,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0113749225,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "What Is The Best HDR Software?",
+            "topScoringIntent": {
+                "score": 0.661743343,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.661743343,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0401292,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0249697026,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.009116289,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.00584188569,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "What do you use to edit Microsoft Word documents (docx)?",
+            "topScoringIntent": {
+                "score": 0.665414453,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.665414453,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0478481464,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0280528869,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0191468522,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.009696155,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "What's the best Wireframing tool?",
+            "topScoringIntent": {
+                "score": 0.514283836,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.514283836,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0506010577,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0254336763,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0105589218,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.00563027,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Is there any software that will do face recognition in photos?",
+            "topScoringIntent": {
+                "score": 0.5458388,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.5458388,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0527267568,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0375441834,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0147398962,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.010717174,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Applications to replace iTunes for iPod synchronization?",
+            "topScoringIntent": {
+                "score": 0.5354489,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.5354489,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0338425823,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0229926836,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0151460171,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0100813815,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Is there an SSH connection manager?",
+            "topScoringIntent": {
+                "score": 0.60525,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.60525,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0430329926,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0246600453,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.009552815,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.00659937365,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "A light alternative to gnome-system-monitor?",
+            "topScoringIntent": {
+                "score": 0.286153525,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.286153525,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0445917733,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.031175226,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.02989524,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0124825593,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Software to create a video slideshow?",
+            "topScoringIntent": {
+                "score": 0.6304706,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.6304706,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.03589834,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0230591763,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.009482475,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.007627176,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Is there a project management software for Ubuntu like Microsoft Project?",
+            "topScoringIntent": {
+                "score": 0.6597834,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.6597834,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.104461029,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0244744178,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0183446,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.004688868,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Is there any recovery software available for ext4?",
+            "topScoringIntent": {
+                "score": 0.881813765,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.881813765,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0182545874,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0151780741,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.01063433,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.00615641568,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "What blog editor software are available?",
+            "topScoringIntent": {
+                "score": 0.9077379,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.9077379,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0220991988,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0152830966,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0057306285,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.004705025,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Can you recommend a good modern GUI download manager (wget wrapper?)",
+            "topScoringIntent": {
+                "score": 0.7021525,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.7021525,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.067330204,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.01850961,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.018497888,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.00861062948,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Is there any program for fuzzy string matching which provides a match score?",
+            "topScoringIntent": {
+                "score": 0.436045,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.436045,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0835996941,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.03565037,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0210278817,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.01059283,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Are there any hardware diagnostic tools?",
+            "topScoringIntent": {
+                "score": 0.856700659,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.856700659,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0305954162,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0139306411,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.006607954,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.00536585134,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Recommendation for Regex editor?",
+            "topScoringIntent": {
+                "score": 0.592294455,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.592294455,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0466051,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0430120863,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.004419821,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.00367732439,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Is there a Document scanning and archiving software?",
+            "topScoringIntent": {
+                "score": 0.546913445,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.546913445,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0383906029,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0229424257,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0165866781,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.009876637,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Keyboard shortcut to shutdown?",
+            "topScoringIntent": {
+                "score": 0.9735117,
+                "intent": "Shutdown Computer"
+            },
+            "intents": [
+                {
+                    "score": 0.9735117,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0356453024,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0114244921,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.001448724,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.000916698948,
+                    "intent": "Setup Printer"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "My system doesn't go shutdown",
+            "topScoringIntent": {
+                "score": 0.9639615,
+                "intent": "Shutdown Computer"
+            },
+            "intents": [
+                {
+                    "score": 0.9639615,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0232426152,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.009360076,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.00356714684,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.00228731288,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "How to troubleshoot slow shutdown?",
+            "topScoringIntent": {
+                "score": 0.9296347,
+                "intent": "Shutdown Computer"
+            },
+            "intents": [
+                {
+                    "score": 0.9296347,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.035099484,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0140696028,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.00238240184,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.00216447026,
+                    "intent": "Setup Printer"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "How can I shutdown the computer when a certain process ends?",
+            "topScoringIntent": {
+                "score": 0.9179169,
+                "intent": "Shutdown Computer"
+            },
+            "intents": [
+                {
+                    "score": 0.9179169,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.02255183,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.01607068,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0058876453,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.00567206461,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Ubuntu Shut down app",
+            "topScoringIntent": {
+                "score": 0.5256622,
+                "intent": "Shutdown Computer"
+            },
+            "intents": [
+                {
+                    "score": 0.5256622,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.2775759,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.007236718,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.006504121,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.00351299578,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "What does my computer do when I click 'Shut Down'?",
+            "topScoringIntent": {
+                "score": 0.415959179,
+                "intent": "Shutdown Computer"
+            },
+            "intents": [
+                {
+                    "score": 0.415959179,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.08125648,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.08032674,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0124681043,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.009700377,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "How do I shut down without the confirmation prompt?",
+            "topScoringIntent": {
+                "score": 0.4415238,
+                "intent": "Shutdown Computer"
+            },
+            "intents": [
+                {
+                    "score": 0.4415238,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.064503,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0405582078,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0145858061,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0101532442,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "No action when shutdown pressed",
+            "topScoringIntent": {
+                "score": 0.928204954,
+                "intent": "Shutdown Computer"
+            },
+            "intents": [
+                {
+                    "score": 0.928204954,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0535727143,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.01118301,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.00203024223,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.001339749,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "what is the right way to shutdown ubuntu using the command line?",
+            "topScoringIntent": {
+                "score": 0.7714002,
+                "intent": "Shutdown Computer"
+            },
+            "intents": [
+                {
+                    "score": 0.7714002,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0446825624,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0296648555,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0115948655,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0109221023,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "How can I make shutdown not require admin password?",
+            "topScoringIntent": {
+                "score": 0.791331768,
+                "intent": "Shutdown Computer"
+            },
+            "intents": [
+                {
+                    "score": 0.791331768,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.06890381,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0158674475,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.007121667,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.00418000156,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "shutdown in specific way if no-one uses computer",
+            "topScoringIntent": {
+                "score": 0.92292583,
+                "intent": "Shutdown Computer"
+            },
+            "intents": [
+                {
+                    "score": 0.92292583,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0169031136,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.01662218,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.008100425,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.00404238049,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "What is the command to open the shutdown dialog?",
+            "topScoringIntent": {
+                "score": 0.8541498,
+                "intent": "Shutdown Computer"
+            },
+            "intents": [
+                {
+                    "score": 0.8541498,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.04568775,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0206839852,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.00695576845,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.004799434,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "How to Shut down Ubuntu by using keyboard?",
+            "topScoringIntent": {
+                "score": 0.4715405,
+                "intent": "Shutdown Computer"
+            },
+            "intents": [
+                {
+                    "score": 0.4715405,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0793447,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0382251255,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0174628757,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.005697214,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "shutdown 5:30pm every day",
+            "topScoringIntent": {
+                "score": 0.9283779,
+                "intent": "Shutdown Computer"
+            },
+            "intents": [
+                {
+                    "score": 0.9283779,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.046912957,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.009534411,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.00280063087,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.00204623188,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Upgrading from 11.10 to 12.04",
+            "topScoringIntent": {
+                "score": 0.9717171,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.9717171,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0132571934,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.009123548,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00597156864,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.003679973,
+                    "intent": "Setup Printer"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 19,
+                    "startIndex": 15,
+                    "score": 0.977411747,
+                    "type": "UbuntuVersion",
+                    "entity": "11 . 10"
+                },
+                {
+                    "endIndex": 28,
+                    "startIndex": 24,
+                    "score": 0.985969067,
+                    "type": "UbuntuVersion",
+                    "entity": "12 . 04"
+                }
+            ]
+        },
+        {
+            "query": "How do I upgrade to the release version of 16.04 if I am running Beta?",
+            "topScoringIntent": {
+                "score": 0.70680356,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.70680356,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0738683641,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.024529634,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0157347433,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.00656387536,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 47,
+                    "startIndex": 43,
+                    "score": 0.8679949,
+                    "type": "UbuntuVersion",
+                    "entity": "16 . 04"
+                }
+            ]
+        },
+        {
+            "query": "Doubts regarding the 15.04 upgrade (is it inevitable and unavoidable?)",
+            "topScoringIntent": {
+                "score": 0.561945438,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.561945438,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.04913545,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0490116142,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.012027313,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00792007148,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 25,
+                    "startIndex": 21,
+                    "score": 0.922677636,
+                    "type": "UbuntuVersion",
+                    "entity": "15 . 04"
+                }
+            ]
+        },
+        {
+            "query": "Is any offline upgrade from 13.10 to 14.04 possible?",
+            "topScoringIntent": {
+                "score": 0.932115138,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.932115138,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0266377274,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0112042911,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.009507095,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.004561563,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 32,
+                    "startIndex": 28,
+                    "score": 0.973901153,
+                    "type": "UbuntuVersion",
+                    "entity": "13 . 10"
+                },
+                {
+                    "endIndex": 41,
+                    "startIndex": 37,
+                    "score": 0.6183248,
+                    "type": "UbuntuVersion",
+                    "entity": "14 . 04"
+                }
+            ]
+        },
+        {
+            "query": "Upgrading from ubuntu 12.04 to 13.10",
+            "topScoringIntent": {
+                "score": 0.952168763,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.952168763,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0222081952,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0146991871,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0102036428,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00273895613,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 26,
+                    "startIndex": 22,
+                    "score": 0.977277,
+                    "type": "UbuntuVersion",
+                    "entity": "12 . 04"
+                },
+                {
+                    "endIndex": 35,
+                    "startIndex": 31,
+                    "score": 0.9641214,
+                    "type": "UbuntuVersion",
+                    "entity": "13 . 10"
+                }
+            ]
+        },
+        {
+            "query": "Ubuntu upgrade failed",
+            "topScoringIntent": {
+                "score": 0.494142324,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.494142324,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0387676544,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0264607072,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0127433613,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0008546868,
+                    "intent": "Setup Printer"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Upgrading from 12.04 to 13.10 ( Unanswered questions )",
+            "topScoringIntent": {
+                "score": 0.9265094,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.9265094,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.021912029,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0157670379,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.008644969,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.006394545,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 19,
+                    "startIndex": 15,
+                    "score": 0.974939048,
+                    "type": "UbuntuVersion",
+                    "entity": "12 . 04"
+                },
+                {
+                    "endIndex": 28,
+                    "startIndex": 24,
+                    "score": 0.944013238,
+                    "type": "UbuntuVersion",
+                    "entity": "13 . 10"
+                }
+            ]
+        },
+        {
+            "query": "upgrading to Ubuntu 13.10 from Ubuntu 13.04",
+            "topScoringIntent": {
+                "score": 0.8103315,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.8103315,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.04726829,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0354289338,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0149929775,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00244161347,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 24,
+                    "startIndex": 20,
+                    "score": 0.7291937,
+                    "type": "UbuntuVersion",
+                    "entity": "13 . 10"
+                },
+                {
+                    "endIndex": 42,
+                    "startIndex": 38,
+                    "score": 0.8488358,
+                    "type": "UbuntuVersion",
+                    "entity": "13 . 04"
+                }
+            ]
+        },
+        {
+            "query": "Is it recommended to upgrade to Lubuntu 15.04?",
+            "topScoringIntent": {
+                "score": 0.731380641,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.731380641,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0353168435,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0146691417,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0128386375,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0081785135,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 44,
+                    "startIndex": 40,
+                    "score": 0.9664079,
+                    "type": "UbuntuVersion",
+                    "entity": "15 . 04"
+                }
+            ]
+        },
+        {
+            "query": "Force upgrade 12.10 to 13.04",
+            "topScoringIntent": {
+                "score": 0.973289,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.973289,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0116836717,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.007394427,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00606756238,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.00280127185,
+                    "intent": "Setup Printer"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 18,
+                    "startIndex": 14,
+                    "score": 0.980462968,
+                    "type": "UbuntuVersion",
+                    "entity": "12 . 10"
+                },
+                {
+                    "endIndex": 27,
+                    "startIndex": 23,
+                    "score": 0.9794426,
+                    "type": "UbuntuVersion",
+                    "entity": "13 . 04"
+                }
+            ]
+        },
+        {
+            "query": "How to partially upgrade Ubuntu 11.10 from Ubuntu 11.04?",
+            "topScoringIntent": {
+                "score": 0.8802735,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.8802735,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0418296233,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0282000937,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0112439878,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00237211585,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 36,
+                    "startIndex": 32,
+                    "score": 0.825122058,
+                    "type": "UbuntuVersion",
+                    "entity": "11 . 10"
+                },
+                {
+                    "endIndex": 54,
+                    "startIndex": 50,
+                    "score": 0.86876893,
+                    "type": "UbuntuVersion",
+                    "entity": "11 . 04"
+                }
+            ]
+        },
+        {
+            "query": "Problem upgrading Ubuntu 9.10",
+            "topScoringIntent": {
+                "score": 0.2025506,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.2025506,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.1661357,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0397259,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00748805376,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.00500441948,
+                    "intent": "Setup Printer"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 28,
+                    "startIndex": 25,
+                    "score": 0.750544369,
+                    "type": "UbuntuVersion",
+                    "entity": "9 . 10"
+                }
+            ]
+        },
+        {
+            "query": "Is it necessary to upgrade to 15.10 from 14.04?",
+            "topScoringIntent": {
+                "score": 0.9618324,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.9618324,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0135549121,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0120874634,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.008173664,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00481285946,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 34,
+                    "startIndex": 30,
+                    "score": 0.9243013,
+                    "type": "UbuntuVersion",
+                    "entity": "15 . 10"
+                },
+                {
+                    "endIndex": 45,
+                    "startIndex": 41,
+                    "score": 0.8880355,
+                    "type": "UbuntuVersion",
+                    "entity": "14 . 04"
+                }
+            ]
+        },
+        {
+            "query": "How do I update Xubuntu 11.10 to Xubuntu 12.04 LTS?",
+            "topScoringIntent": {
+                "score": 0.6328968,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.6328968,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.06649814,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.02513894,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0134690264,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.006750167,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 28,
+                    "startIndex": 24,
+                    "score": 0.9335628,
+                    "type": "UbuntuVersion",
+                    "entity": "11 . 10"
+                },
+                {
+                    "endIndex": 49,
+                    "startIndex": 41,
+                    "score": 0.592366,
+                    "type": "UbuntuVersion",
+                    "entity": "12 . 04 lts"
+                }
+            ]
+        },
+        {
+            "query": "Why did the upgrade from 11.10 to 12.04 ruin my system?",
+            "topScoringIntent": {
+                "score": 0.97185427,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.97185427,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0155738536,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.009674094,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.008961036,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.005131922,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 29,
+                    "startIndex": 25,
+                    "score": 0.9808216,
+                    "type": "UbuntuVersion",
+                    "entity": "11 . 10"
+                },
+                {
+                    "endIndex": 38,
+                    "startIndex": 34,
+                    "score": 0.9186649,
+                    "type": "UbuntuVersion",
+                    "entity": "12 . 04"
+                }
+            ]
+        },
+        {
+            "query": "Problems upgrading from 12.04 to 14.04",
+            "topScoringIntent": {
+                "score": 0.9602506,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.9602506,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.01225914,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0111497855,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.007374712,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.005427575,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 28,
+                    "startIndex": 24,
+                    "score": 0.970386446,
+                    "type": "UbuntuVersion",
+                    "entity": "12 . 04"
+                },
+                {
+                    "endIndex": 37,
+                    "startIndex": 33,
+                    "score": 0.962813735,
+                    "type": "UbuntuVersion",
+                    "entity": "14 . 04"
+                }
+            ]
+        },
+        {
+            "query": "Problems upgrading Ubuntu 12.10 to 13.04",
+            "topScoringIntent": {
+                "score": 0.917589545,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.917589545,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0280179754,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0177985989,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0103331637,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00328167179,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 30,
+                    "startIndex": 26,
+                    "score": 0.981627941,
+                    "type": "UbuntuVersion",
+                    "entity": "12 . 10"
+                },
+                {
+                    "endIndex": 39,
+                    "startIndex": 35,
+                    "score": 0.9794423,
+                    "type": "UbuntuVersion",
+                    "entity": "13 . 04"
+                }
+            ]
+        },
+        {
+            "query": "Upgrade from 12.04 to 12.10 without losing files?",
+            "topScoringIntent": {
+                "score": 0.9606011,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.9606011,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.02147118,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0112522691,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.008154518,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.00381578,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 17,
+                    "startIndex": 13,
+                    "score": 0.9799474,
+                    "type": "UbuntuVersion",
+                    "entity": "12 . 04"
+                },
+                {
+                    "endIndex": 26,
+                    "startIndex": 22,
+                    "score": 0.953508556,
+                    "type": "UbuntuVersion",
+                    "entity": "12 . 10"
+                }
+            ]
+        },
+        {
+            "query": "On really old Ubuntu 6.06 - How to upgrade",
+            "topScoringIntent": {
+                "score": 0.250581831,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.250581831,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.05613695,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0448956229,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0211441312,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.008926364,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 24,
+                    "startIndex": 21,
+                    "score": 0.560283661,
+                    "type": "UbuntuVersion",
+                    "entity": "6 . 06"
+                }
+            ]
+        },
+        {
+            "query": "Do I need to uninstall 10.04 to upgrade to 12.04?",
+            "topScoringIntent": {
+                "score": 0.9874139,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.9874139,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0181608219,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.006865424,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.005393772,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.00376937957,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 27,
+                    "startIndex": 23,
+                    "score": 0.8456393,
+                    "type": "UbuntuVersion",
+                    "entity": "10 . 04"
+                },
+                {
+                    "endIndex": 47,
+                    "startIndex": 43,
+                    "score": 0.977658033,
+                    "type": "UbuntuVersion",
+                    "entity": "12 . 04"
+                }
+            ]
+        },
+        {
+            "query": "Do I need to reinstall everything to upgrade from 13.10 to 14.10?",
+            "topScoringIntent": {
+                "score": 0.79845643,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.79845643,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0340879634,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0226989388,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0127670756,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00665304251,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 54,
+                    "startIndex": 50,
+                    "score": 0.971785963,
+                    "type": "UbuntuVersion",
+                    "entity": "13 . 10"
+                },
+                {
+                    "endIndex": 63,
+                    "startIndex": 59,
+                    "score": 0.967553437,
+                    "type": "UbuntuVersion",
+                    "entity": "14 . 10"
+                }
+            ]
+        },
+        {
+            "query": "update-manager: upgrade to 15.04 rather than 16.04",
+            "topScoringIntent": {
+                "score": 0.864639938,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.864639938,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0416265726,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0175907947,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.008327518,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.00658179354,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 49,
+                    "startIndex": 27,
+                    "score": 0.449023783,
+                    "type": "UbuntuVersion",
+                    "entity": "15 . 04 rather than 16 . 04"
+                }
+            ]
+        },
+        {
+            "query": "Upgrading 16.04 to 16.04.1",
+            "topScoringIntent": {
+                "score": 0.7826437,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.7826437,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.03157919,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0203327555,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0114567494,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.00702112867,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 14,
+                    "startIndex": 10,
+                    "score": 0.828927,
+                    "type": "UbuntuVersion",
+                    "entity": "16 . 04"
+                },
+                {
+                    "endIndex": 25,
+                    "startIndex": 19,
+                    "score": 0.744811,
+                    "type": "UbuntuVersion",
+                    "entity": "16 . 04 . 1"
+                }
+            ]
+        },
+        {
+            "query": "Upgrading Ubuntu Server 9.10 to 10.04",
+            "topScoringIntent": {
+                "score": 0.8350007,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.8350007,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0457928777,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0205681156,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0107379118,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.003415583,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 27,
+                    "startIndex": 24,
+                    "score": 0.9129487,
+                    "type": "UbuntuVersion",
+                    "entity": "9 . 10"
+                },
+                {
+                    "endIndex": 36,
+                    "startIndex": 32,
+                    "score": 0.9367093,
+                    "type": "UbuntuVersion",
+                    "entity": "10 . 04"
+                }
+            ]
+        },
+        {
+            "query": "Ho do I update to 13.04 from the beta?",
+            "topScoringIntent": {
+                "score": 0.480099827,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.480099827,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.03863369,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0332555138,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0237012934,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.008079185,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 22,
+                    "startIndex": 18,
+                    "score": 0.911731,
+                    "type": "UbuntuVersion",
+                    "entity": "13 . 04"
+                }
+            ]
+        },
+        {
+            "query": "How to upgrade from 12.10 to 14.04",
+            "topScoringIntent": {
+                "score": 0.9940006,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.9940006,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.006004954,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.005056148,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.003667649,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.00309142144,
+                    "intent": "Setup Printer"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 24,
+                    "startIndex": 20,
+                    "score": 0.981722,
+                    "type": "UbuntuVersion",
+                    "entity": "12 . 10"
+                },
+                {
+                    "endIndex": 33,
+                    "startIndex": 29,
+                    "score": 0.9752176,
+                    "type": "UbuntuVersion",
+                    "entity": "14 . 04"
+                }
+            ]
+        },
+        {
+            "query": "Upgrading from 10.10 to 11.04 how much space is needed?",
+            "topScoringIntent": {
+                "score": 0.914010167,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.914010167,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0233160444,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0170905087,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0122861471,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00635802932,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 19,
+                    "startIndex": 15,
+                    "score": 0.957823932,
+                    "type": "UbuntuVersion",
+                    "entity": "10 . 10"
+                },
+                {
+                    "endIndex": 28,
+                    "startIndex": 24,
+                    "score": 0.908010244,
+                    "type": "UbuntuVersion",
+                    "entity": "11 . 04"
+                }
+            ]
+        },
+        {
+            "query": "Do I need to backup my 12.04 system to upgrade to 12.04.1?",
+            "topScoringIntent": {
+                "score": 0.984113932,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.984113932,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.04767747,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.008351934,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.004795989,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.00369663886,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 27,
+                    "startIndex": 23,
+                    "score": 0.803306043,
+                    "type": "UbuntuVersion",
+                    "entity": "12 . 04"
+                },
+                {
+                    "endIndex": 56,
+                    "startIndex": 50,
+                    "score": 0.9004963,
+                    "type": "UbuntuVersion",
+                    "entity": "12 . 04 . 1"
+                }
+            ]
+        },
+        {
+            "query": "Cannot upgrade from 12.04LTS to 14.04",
+            "topScoringIntent": {
+                "score": 0.974031746,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.974031746,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.008072654,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.00680884067,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00670662336,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.00326935784,
+                    "intent": "Setup Printer"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 27,
+                    "startIndex": 20,
+                    "score": 0.9303679,
+                    "type": "UbuntuVersion",
+                    "entity": "12 . 04lts"
+                },
+                {
+                    "endIndex": 36,
+                    "startIndex": 32,
+                    "score": 0.9836938,
+                    "type": "UbuntuVersion",
+                    "entity": "14 . 04"
+                }
+            ]
+        },
+        {
+            "query": "Upgrade 10.10 to 11.04",
+            "topScoringIntent": {
+                "score": 0.972645164,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.972645164,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0118910167,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.00730326632,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.006690707,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.00131446566,
+                    "intent": "Setup Printer"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 12,
+                    "startIndex": 8,
+                    "score": 0.9592583,
+                    "type": "UbuntuVersion",
+                    "entity": "10 . 10"
+                },
+                {
+                    "endIndex": 21,
+                    "startIndex": 17,
+                    "score": 0.9750705,
+                    "type": "UbuntuVersion",
+                    "entity": "11 . 04"
+                }
+            ]
+        },
+        {
+            "query": "How to upgrade from 14.04 LTS or 15.10 to 16.04 from terminal",
+            "topScoringIntent": {
+                "score": 0.9792083,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.9792083,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0388027653,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0142478785,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00385266752,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.00319716125,
+                    "intent": "Software Recommendation"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 28,
+                    "startIndex": 20,
+                    "score": 0.7370706,
+                    "type": "UbuntuVersion",
+                    "entity": "14 . 04 lts"
+                },
+                {
+                    "endIndex": 37,
+                    "startIndex": 33,
+                    "score": 0.823528469,
+                    "type": "UbuntuVersion",
+                    "entity": "15 . 10"
+                },
+                {
+                    "endIndex": 46,
+                    "startIndex": 42,
+                    "score": 0.8763311,
+                    "type": "UbuntuVersion",
+                    "entity": "16 . 04"
+                }
+            ]
+        },
+        {
+            "query": "How to upgrade from 16.04 LTS to 16.04.1 LTS",
+            "topScoringIntent": {
+                "score": 0.8462242,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.8462242,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0336091742,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.02120807,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0111536458,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.00495399768,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 28,
+                    "startIndex": 20,
+                    "score": 0.771074355,
+                    "type": "UbuntuVersion",
+                    "entity": "16 . 04 lts"
+                },
+                {
+                    "endIndex": 39,
+                    "startIndex": 33,
+                    "score": 0.606987059,
+                    "type": "UbuntuVersion",
+                    "entity": "16 . 04 . 1"
+                }
+            ]
+        },
+        {
+            "query": "Upgrading from 10.04 to 11.10",
+            "topScoringIntent": {
+                "score": 0.9387904,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.9387904,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0183553845,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0115785114,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00697792973,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.003711799,
+                    "intent": "Setup Printer"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 19,
+                    "startIndex": 15,
+                    "score": 0.945732534,
+                    "type": "UbuntuVersion",
+                    "entity": "10 . 04"
+                },
+                {
+                    "endIndex": 28,
+                    "startIndex": 24,
+                    "score": 0.9528459,
+                    "type": "UbuntuVersion",
+                    "entity": "11 . 10"
+                }
+            ]
+        },
+        {
+            "query": "How can i upgrade to Ubuntu 14.04 final from 14.04 Beta correctly?",
+            "topScoringIntent": {
+                "score": 0.930348635,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.930348635,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.05760436,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0128396777,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0126044312,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00269036368,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 32,
+                    "startIndex": 28,
+                    "score": 0.437322468,
+                    "type": "UbuntuVersion",
+                    "entity": "14 . 04"
+                },
+                {
+                    "endIndex": 49,
+                    "startIndex": 45,
+                    "score": 0.5896713,
+                    "type": "UbuntuVersion",
+                    "entity": "14 . 04"
+                }
+            ]
+        },
+        {
+            "query": "Is there an upgrade procedure from 12.04 LTS to 14.04 LTS",
+            "topScoringIntent": {
+                "score": 0.9311259,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.9311259,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0253658332,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0163690038,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.009409785,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00356443156,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 43,
+                    "startIndex": 35,
+                    "score": 0.8677083,
+                    "type": "UbuntuVersion",
+                    "entity": "12 . 04 lts"
+                },
+                {
+                    "endIndex": 56,
+                    "startIndex": 48,
+                    "score": 0.499176264,
+                    "type": "UbuntuVersion",
+                    "entity": "14 . 04 lts"
+                }
+            ]
+        },
+        {
+            "query": "Upgrade from 9.10 to 11.04",
+            "topScoringIntent": {
+                "score": 0.9797662,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.9797662,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.010752771,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.008607394,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00557163171,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.00173011294,
+                    "intent": "Setup Printer"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 16,
+                    "startIndex": 13,
+                    "score": 0.9289171,
+                    "type": "UbuntuVersion",
+                    "entity": "9 . 10"
+                },
+                {
+                    "endIndex": 25,
+                    "startIndex": 21,
+                    "score": 0.971978247,
+                    "type": "UbuntuVersion",
+                    "entity": "11 . 04"
+                }
+            ]
+        },
+        {
+            "query": "How to upgrade Ubuntu 12.04 to 14.04 if I have dual boot with windows 7?",
+            "topScoringIntent": {
+                "score": 0.9733438,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.9733438,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.102730677,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.008490395,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00780199049,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.002090492,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 26,
+                    "startIndex": 22,
+                    "score": 0.9726619,
+                    "type": "UbuntuVersion",
+                    "entity": "12 . 04"
+                },
+                {
+                    "endIndex": 35,
+                    "startIndex": 31,
+                    "score": 0.886572659,
+                    "type": "UbuntuVersion",
+                    "entity": "14 . 04"
+                }
+            ]
+        },
+        {
+            "query": "Wubi Device /dev/loop0 full. How to get more space?",
+            "topScoringIntent": {
+                "score": 0.123714395,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.123714395,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.101016834,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.03878952,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.02465408,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0181584656,
+                    "intent": "Shutdown Computer"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Using 12.04 can I compile packages with gcc for 10.04?",
+            "topScoringIntent": {
+                "score": 0.755356,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.755356,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0563456751,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0213549323,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0163182467,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0056014033,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 10,
+                    "startIndex": 6,
+                    "score": 0.9488351,
+                    "type": "UbuntuVersion",
+                    "entity": "12 . 04"
+                },
+                {
+                    "endIndex": 52,
+                    "startIndex": 48,
+                    "score": 0.9415855,
+                    "type": "UbuntuVersion",
+                    "entity": "10 . 04"
+                }
+            ]
+        },
+        {
+            "query": "Removing Recently used items in 12.04",
+            "topScoringIntent": {
+                "score": 0.294770181,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.294770181,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.06958882,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0215775575,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0129388813,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0105392039,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 36,
+                    "startIndex": 32,
+                    "score": 0.989779532,
+                    "type": "UbuntuVersion",
+                    "entity": "12 . 04"
+                }
+            ]
+        },
+        {
+            "query": "Upgrading From 11.04 (32bit) to 12.04 (64bit)",
+            "topScoringIntent": {
+                "score": 0.833383441,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.833383441,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0454619974,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0391322821,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0129610123,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.004039032,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 19,
+                    "startIndex": 15,
+                    "score": 0.875191033,
+                    "type": "UbuntuVersion",
+                    "entity": "11 . 04"
+                },
+                {
+                    "endIndex": 36,
+                    "startIndex": 32,
+                    "score": 0.912374139,
+                    "type": "UbuntuVersion",
+                    "entity": "12 . 04"
+                }
+            ]
+        },
+        {
+            "query": "How is rm command different from the delete button?",
+            "topScoringIntent": {
+                "score": 0.273568243,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.273568243,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.06115262,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.03348129,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0237551332,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0163167454,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "In Unity how do I see the details of a given launcher?",
+            "topScoringIntent": {
+                "score": 0.207224071,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.207224071,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.107127756,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0415200964,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0173124187,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0163477249,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "How to provide user permission to read and write on /dev/sdax? What is the syntax?",
+            "topScoringIntent": {
+                "score": 0.2626006,
+                "intent": "Setup Printer"
+            },
+            "intents": [
+                {
+                    "score": 0.2626006,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.153531119,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0470074862,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.023588445,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0129582994,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Security enhancements prevent mounting /dev/sdb1",
+            "topScoringIntent": {
+                "score": 0.371778756,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.371778756,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0299974959,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.02568169,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0252699945,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.008362854,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "How do I show grub when resuming from suspend?",
+            "topScoringIntent": {
+                "score": 0.228177145,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.228177145,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.04691601,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0394220166,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0204534419,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.01633662,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "How to install a Lexmark z600 series printer?",
+            "topScoringIntent": {
+                "score": 0.6493028,
+                "intent": "Setup Printer"
+            },
+            "intents": [
+                {
+                    "score": 0.6493028,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0483329557,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0185591243,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.01358916,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00322772679,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 28,
+                    "startIndex": 17,
+                    "score": 0.6321811,
+                    "type": "Printer",
+                    "entity": "lexmark z600"
+                }
+            ]
+        },
+        {
+            "query": "Cannot setup HP All in one DJ3630",
+            "topScoringIntent": {
+                "score": 0.2340595,
+                "intent": "Setup Printer"
+            },
+            "intents": [
+                {
+                    "score": 0.2340595,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.08074614,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.02675322,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.02367003,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.002506572,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "How to add a network printer on Ubuntu 15.10?",
+            "topScoringIntent": {
+                "score": 0.703706861,
+                "intent": "Setup Printer"
+            },
+            "intents": [
+                {
+                    "score": 0.703706861,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.05414627,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0405495465,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0110168913,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00327695883,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 43,
+                    "startIndex": 39,
+                    "score": 0.980439067,
+                    "type": "UbuntuVersion",
+                    "entity": "15 . 10"
+                }
+            ]
+        },
+        {
+            "query": "Cannot install printer driver epson l210",
+            "topScoringIntent": {
+                "score": 0.365480453,
+                "intent": "Setup Printer"
+            },
+            "intents": [
+                {
+                    "score": 0.365480453,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.08874383,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0215524565,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0169137809,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00151825615,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "How do I install Dell 2150cdn printer",
+            "topScoringIntent": {
+                "score": 0.8447587,
+                "intent": "Setup Printer"
+            },
+            "intents": [
+                {
+                    "score": 0.8447587,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0206885468,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.02044922,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0116201881,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00112716982,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Installing Epson XP-424 wireless printer",
+            "topScoringIntent": {
+                "score": 0.14512141,
+                "intent": "Software Recommendation"
+            },
+            "intents": [
+                {
+                    "score": 0.14512141,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.119050704,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0309014823,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.02427649,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.003213595,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Installing EPSON L355 on Ubuntu 14.04",
+            "topScoringIntent": {
+                "score": 0.231880188,
+                "intent": "Make Update"
+            },
+            "intents": [
+                {
+                    "score": 0.231880188,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.0603929237,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0265521277,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0181307532,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00737324869,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 36,
+                    "startIndex": 32,
+                    "score": 0.9744614,
+                    "type": "UbuntuVersion",
+                    "entity": "14 . 04"
+                }
+            ]
+        },
+        {
+            "query": "How do I install the HP F4280 printer?",
+            "topScoringIntent": {
+                "score": 0.972109735,
+                "intent": "Setup Printer"
+            },
+            "intents": [
+                {
+                    "score": 0.972109735,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0173081029,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0105933761,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.008920339,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00100117363,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 28,
+                    "startIndex": 21,
+                    "score": 0.6870867,
+                    "type": "Printer",
+                    "entity": "hp f4280"
+                }
+            ]
+        },
+        {
+            "query": "How to Install Brother DCP-8110DN Laser Printer on Ubuntu?",
+            "topScoringIntent": {
+                "score": 0.865654469,
+                "intent": "Setup Printer"
+            },
+            "intents": [
+                {
+                    "score": 0.865654469,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.0293736085,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0140503887,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.009309698,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.007925535,
+                    "intent": "Make Update"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "How to Install a Canon MF8040Cn Printer on Ubuntu 12.04",
+            "topScoringIntent": {
+                "score": 0.936095834,
+                "intent": "Setup Printer"
+            },
+            "intents": [
+                {
+                    "score": 0.936095834,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.183577225,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.00540780229,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00417802855,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.00227082148,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 30,
+                    "startIndex": 17,
+                    "score": 0.904861748,
+                    "type": "Printer",
+                    "entity": "canon mf8040cn"
+                },
+                {
+                    "endIndex": 54,
+                    "startIndex": 50,
+                    "score": 0.9845287,
+                    "type": "UbuntuVersion",
+                    "entity": "12 . 04"
+                }
+            ]
+        },
+        {
+            "query": "How Do I Install Canon MF8000C Printer in Ubuntu 15.10?",
+            "topScoringIntent": {
+                "score": 0.975580037,
+                "intent": "Setup Printer"
+            },
+            "intents": [
+                {
+                    "score": 0.975580037,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.01609529,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.013474063,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.00678699929,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.004024149,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 29,
+                    "startIndex": 17,
+                    "score": 0.742861569,
+                    "type": "Printer",
+                    "entity": "canon mf8000c"
+                },
+                {
+                    "endIndex": 53,
+                    "startIndex": 49,
+                    "score": 0.946022332,
+                    "type": "UbuntuVersion",
+                    "entity": "15 . 10"
+                }
+            ]
+        },
+        {
+            "query": "How to install Canon LBP330 in Lts 16.04",
+            "topScoringIntent": {
+                "score": 0.299112171,
+                "intent": "Setup Printer"
+            },
+            "intents": [
+                {
+                    "score": 0.299112171,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.09130951,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.01910031,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.0129565326,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.0116969049,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 39,
+                    "startIndex": 35,
+                    "score": 0.5762288,
+                    "type": "UbuntuVersion",
+                    "entity": "16 . 04"
+                }
+            ]
+        },
+        {
+            "query": "Install printer Lexmark X4690 (ubuntu 12.04)",
+            "topScoringIntent": {
+                "score": 0.5619058,
+                "intent": "Setup Printer"
+            },
+            "intents": [
+                {
+                    "score": 0.5619058,
+                    "intent": "Setup Printer"
+                },
+                {
+                    "score": 0.140013084,
+                    "intent": "Make Update"
+                },
+                {
+                    "score": 0.02875992,
+                    "intent": "Software Recommendation"
+                },
+                {
+                    "score": 0.00720643252,
+                    "intent": "Shutdown Computer"
+                },
+                {
+                    "score": 0.00287261,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 42,
+                    "startIndex": 38,
+                    "score": 0.9330167,
+                    "type": "UbuntuVersion",
+                    "entity": "12 . 04"
+                }
+            ]
+        }
+    ]
+}

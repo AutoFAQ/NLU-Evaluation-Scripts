@@ -1,0 +1,1299 @@
+{
+    "results": [
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:13:59.133Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "can you find a connection from garching to hauptbahnhof?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "46424213-bc65-48a7-ae5c-47357bb63205",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "FindConnection",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "341559a3-5a7c-4189-b5dd-d068bb16d23e"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:13:59.582Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "how i can get from marienplatz to garching",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "46424213-bc65-48a7-ae5c-47357bb63205",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "FindConnection",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "6a8150c3-c82f-47ec-96d3-d49018348fa9"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:13:59.998Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "when is the next s-bahn leaving at garching?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "c76510b9-4959-4246-8a49-a41da66e4822",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "DepartureTime",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "d76b7974-4374-48dd-b0b7-dea3e6199bf0"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:00.304Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "from hauptbahnhof to garching?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "46424213-bc65-48a7-ae5c-47357bb63205",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "FindConnection",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "b11b806d-5cf4-4bcb-82f6-ad23189ac1e2"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:00.67Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "how can i get to glockenbachviertel from garching forschungszentrum?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "46424213-bc65-48a7-ae5c-47357bb63205",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "FindConnection",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "bacef510-48b7-4874-ba9b-5d0a0c1ea1fe"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:01.044Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "how i can get from marienplatz to garching?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "46424213-bc65-48a7-ae5c-47357bb63205",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "FindConnection",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "77425273-327f-4bba-91cd-70b45e167155"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:01.415Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "when is the next train in garching?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "c76510b9-4959-4246-8a49-a41da66e4822",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "DepartureTime",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "2ac444e9-6da4-4934-a60e-017e05cd995f"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:01.763Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "how to get from münchner freiheit to garching ?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "46424213-bc65-48a7-ae5c-47357bb63205",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "FindConnection",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "4d46fdde-bb10-46c8-8910-4173ad3a0879"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:02.181Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "when is the next bus from garching forschungzentrum",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "c76510b9-4959-4246-8a49-a41da66e4822",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "DepartureTime",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "4417e698-fd1e-44f6-92e4-801ff6e99254"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:02.512Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "how do i get from spitzingplatz to poccistraße?",
+                "source": "agent",
+                "score": 0.9399999976158142,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "46424213-bc65-48a7-ae5c-47357bb63205",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "FindConnection",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "bb6e9405-c28a-4912-a562-507062c96ec1"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:02.806Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "or depart from garching",
+                "source": "agent",
+                "score": 0.5899999737739563,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "c76510b9-4959-4246-8a49-a41da66e4822",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "DepartureTime",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "1053d5f1-6978-4899-aa8b-3b3fefd3a9c3"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:03.234Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "how can i get from münchner freiheit to odeonsplatz",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "46424213-bc65-48a7-ae5c-47357bb63205",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "FindConnection",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "339edd2a-4ca4-4e6a-a3dc-434a8f9e74bb"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:03.539Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "from garching to hauptbahnhof",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "46424213-bc65-48a7-ae5c-47357bb63205",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "FindConnection",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "cfa4e055-9c5c-41d2-807e-95346bd5ad72"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:03.859Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "how can i get from garching to odeonsplatz",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "46424213-bc65-48a7-ae5c-47357bb63205",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "FindConnection",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "92ad5dab-cc35-46dd-856a-774f96dea2f2"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:04.173Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "what's the shortest way between hauptbahnhof and odeonsplatz?",
+                "source": "agent",
+                "score": 0.6399999856948853,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "46424213-bc65-48a7-ae5c-47357bb63205",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "FindConnection",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "e245e088-2d12-474b-b3ee-f315925e84cb"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:04.502Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "what's the cheapest way from neuperlach süd to lehel?",
+                "source": "agent",
+                "score": 0.7799999713897705,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "46424213-bc65-48a7-ae5c-47357bb63205",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "FindConnection",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "498c4d56-8567-465a-baca-a3150a943c31"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:04.872Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "is there a bus from odeonsplatz to hauptbahnhof at 3 pm?",
+                "source": "agent",
+                "score": 0.8500000238418579,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "46424213-bc65-48a7-ae5c-47357bb63205",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "FindConnection",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "fc633161-e0d9-4a44-b556-d377cf82fcf3"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:05.173Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "when the next train in garching,forschungszentrum is leaving?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "c76510b9-4959-4246-8a49-a41da66e4822",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "DepartureTime",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "5f637bf3-b042-4b50-9253-66eb38c8423f"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:05.498Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "what is the next connection from garching forschungszentrum to odeonsplatz?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "46424213-bc65-48a7-ae5c-47357bb63205",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "FindConnection",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "cb3a6602-b7c7-4323-acf4-d791c1fc3294"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:05.876Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "how can i get from garching forschungszentrum to odeonsplatz?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "46424213-bc65-48a7-ae5c-47357bb63205",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "FindConnection",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "b2f7a967-d38b-4499-9605-e2a960624500"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:06.245Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "how can i get to boltzmannstraße from quiddestraße?",
+                "source": "agent",
+                "score": 0.3700000047683716,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "46424213-bc65-48a7-ae5c-47357bb63205",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "FindConnection",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "916a08f6-f5b6-42e2-b237-1c1da87e68ac"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:06.61Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "when is the next train leaving in garching",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "c76510b9-4959-4246-8a49-a41da66e4822",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "DepartureTime",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "792375bd-a168-43a3-a8b5-036e6d0222b9"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:06.901Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "when is the next train",
+                "source": "agent",
+                "score": 0.7699999809265137,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "c76510b9-4959-4246-8a49-a41da66e4822",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "DepartureTime",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "7b97e3af-dd12-4937-880d-fba570682610"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:07.267Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "when does the next bus leave in garching?",
+                "source": "agent",
+                "score": 0.9800000190734863,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "c76510b9-4959-4246-8a49-a41da66e4822",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "DepartureTime",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "16c8cf0e-6d20-4f9a-8526-48a9a5da3cf9"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:07.589Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "when does the next subway departes from odeonsplatz?",
+                "source": "agent",
+                "score": 0.9200000166893005,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "c76510b9-4959-4246-8a49-a41da66e4822",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "DepartureTime",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "5e4e3022-02b9-4b89-b063-e7e6d77e2ecd"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:07.904Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "when does the next tram starts from hauptbahnhof?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "c76510b9-4959-4246-8a49-a41da66e4822",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "DepartureTime",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "bc25182a-be7a-4dda-8623-5ab073d841b8"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:08.226Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "when does the next train starts at sendlinger tor?",
+                "source": "agent",
+                "score": 0.46000000834465027,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "c76510b9-4959-4246-8a49-a41da66e4822",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "DepartureTime",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "ab57acf7-91dc-40da-8d0e-0dacc5ac472c"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:08.53Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "when does the bus to röblingweg starts?",
+                "source": "agent",
+                "score": 0.30000001192092896,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "c76510b9-4959-4246-8a49-a41da66e4822",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "DepartureTime",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "4bc5c8e7-30c9-49af-ae77-362312fb831d"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:08.874Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "when is the train leaving in garching",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "c76510b9-4959-4246-8a49-a41da66e4822",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "DepartureTime",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "27346b11-6801-470d-ac2c-1311399316ca"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:09.272Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "how can i get from quiddestraße to boltzmannstraße?",
+                "source": "agent",
+                "score": 0.5299999713897705,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "46424213-bc65-48a7-ae5c-47357bb63205",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "FindConnection",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "6c77a7e5-d124-45f0-9c7e-c616f204bf95"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:09.575Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "when comes the next train",
+                "source": "agent",
+                "score": 0.7200000286102295,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "c76510b9-4959-4246-8a49-a41da66e4822",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "DepartureTime",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "dc32ea75-2548-4cf7-bd28-9531a47d27e4"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:09.912Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "when does the next train come at garching forschungszentrum",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "c76510b9-4959-4246-8a49-a41da66e4822",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "DepartureTime",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "e9698464-11b6-43e5-b443-a05aae7a8e35"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:10.22Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "how to get from untere strassaecker 21 to frötmaning",
+                "source": "agent",
+                "score": 0.9200000166893005,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "46424213-bc65-48a7-ae5c-47357bb63205",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "FindConnection",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "d17eac90-59ad-4cda-9dc5-572943cd003b"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:10.681Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "when is the next train from untere straßaecker 21 to kieferngarten",
+                "source": "agent",
+                "score": 0.7300000190734863,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "46424213-bc65-48a7-ae5c-47357bb63205",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "FindConnection",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "a1be3824-717e-4b7c-a24e-59659cc62497"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:11.106Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "how to get from garching to perlach?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "46424213-bc65-48a7-ae5c-47357bb63205",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "FindConnection",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "d67dd19c-276f-4cad-89c6-c6f47d2d2837"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:11.433Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "how do i get from olympia einkaufszentrum to hauptbahnhof?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "46424213-bc65-48a7-ae5c-47357bb63205",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "FindConnection",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "359db170-c58d-4101-8bf5-9437f15f09a6"
+        },
+        {
+            "lang": "en",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-08-03T14:14:11.867Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "how can i get from garching to marienplatz",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ""
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "46424213-bc65-48a7-ae5c-47357bb63205",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "FindConnection",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "68b396e9-20a3-4ab3-84b9-46bcebdff060"
+        }
+    ]
+}

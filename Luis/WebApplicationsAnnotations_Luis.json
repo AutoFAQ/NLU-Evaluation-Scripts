@@ -1,0 +1,2746 @@
+{
+    "results": [
+        {
+            "query": "Alternative to Facebook",
+            "topScoringIntent": {
+                "score": 0.16425325,
+                "intent": "Find Alternative"
+            },
+            "intents": [
+                {
+                    "score": 0.16425325,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.075188525,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.03296254,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0118042938,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.00749266846,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.00240135053,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.002117352,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.00209217146,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "How do I delete my Facebook account?",
+            "topScoringIntent": {
+                "score": 0.980122149,
+                "intent": "Delete Account"
+            },
+            "intents": [
+                {
+                    "score": 0.980122149,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.010267741,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.007107642,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.006861235,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.005670688,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0056563695,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.005094278,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.004904418,
+                    "intent": "Filter Spam"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 26,
+                    "startIndex": 19,
+                    "score": 0.965127051,
+                    "type": "WebService",
+                    "entity": "facebook"
+                }
+            ]
+        },
+        {
+            "query": "Are there any good Pandora alternatives with general availability outside the US?",
+            "topScoringIntent": {
+                "score": 0.621367335,
+                "intent": "Find Alternative"
+            },
+            "intents": [
+                {
+                    "score": 0.621367335,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0308877677,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0221538674,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.0173039269,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.0149071049,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0120582934,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.00826427247,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.00791358948,
+                    "intent": "Download Video"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 25,
+                    "startIndex": 19,
+                    "score": 0.689576745,
+                    "type": "WebService",
+                    "entity": "pandora"
+                }
+            ]
+        },
+        {
+            "query": "Is it possible to export my data from Trello to back it up?",
+            "topScoringIntent": {
+                "score": 0.174435779,
+                "intent": "Export Data"
+            },
+            "intents": [
+                {
+                    "score": 0.174435779,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.03901826,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0292524435,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0253927223,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0227383934,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.02152571,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.0174606033,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0103675835,
+                    "intent": "Download Video"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Is there an online alternative to iGoogle",
+            "topScoringIntent": {
+                "score": 0.09861185,
+                "intent": "Find Alternative"
+            },
+            "intents": [
+                {
+                    "score": 0.09861185,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.06573118,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0248934384,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0133653888,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.00961913,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.008027444,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.007577285,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.005945117,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "How can I remove myself from a Trello organization?",
+            "topScoringIntent": {
+                "score": 0.0393972471,
+                "intent": "Delete Account"
+            },
+            "intents": [
+                {
+                    "score": 0.0393972471,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0339851342,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.0269371346,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0240229834,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0230655111,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0204435848,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0188966338,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.0159965809,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "How do I transfer my photos from Flickr to Picasa?",
+            "topScoringIntent": {
+                "score": 0.05846268,
+                "intent": "Delete Account"
+            },
+            "intents": [
+                {
+                    "score": 0.05846268,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0345217027,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0319242068,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.0226750635,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0214580167,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.0181558859,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.0180918388,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0178187,
+                    "intent": "Filter Spam"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "How do I sync Google Calendar with my Outlook Calendar?",
+            "topScoringIntent": {
+                "score": 0.758113146,
+                "intent": "Sync Accounts"
+            },
+            "intents": [
+                {
+                    "score": 0.758113146,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0253535956,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0176454689,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.014455704,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.0140646463,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.0133504653,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0117863119,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.00780542148,
+                    "intent": "Filter Spam"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 28,
+                    "startIndex": 14,
+                    "score": 0.5269969,
+                    "type": "WebService",
+                    "entity": "google calendar"
+                }
+            ]
+        },
+        {
+            "query": "Archive/export all the blog entries from a RSS feed in Google Reader",
+            "topScoringIntent": {
+                "score": 0.144600734,
+                "intent": "Export Data"
+            },
+            "intents": [
+                {
+                    "score": 0.144600734,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.0564712323,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.04180249,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0259765927,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0226379111,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0177849,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0149377445,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.01101457,
+                    "intent": "Download Video"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 60,
+                    "startIndex": 55,
+                    "score": 0.484728724,
+                    "type": "WebService",
+                    "entity": "google"
+                }
+            ]
+        },
+        {
+            "query": "How can I delete my 160by2 account?",
+            "topScoringIntent": {
+                "score": 0.9823558,
+                "intent": "Delete Account"
+            },
+            "intents": [
+                {
+                    "score": 0.9823558,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.008401043,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.00717743067,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.006061923,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.005972383,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.005677823,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.00355664035,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.00345401769,
+                    "intent": "Find Alternative"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 25,
+                    "startIndex": 20,
+                    "score": 0.992809355,
+                    "type": "WebService",
+                    "entity": "160by2"
+                }
+            ]
+        },
+        {
+            "query": "How can I permanently delete my Yahoo mail account?",
+            "topScoringIntent": {
+                "score": 0.8858646,
+                "intent": "Delete Account"
+            },
+            "intents": [
+                {
+                    "score": 0.8858646,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0249860678,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0113870027,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.009565732,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.008444282,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.007339539,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.00684768427,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.006051578,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 41,
+                    "startIndex": 32,
+                    "score": 0.557597458,
+                    "type": "WebService",
+                    "entity": "yahoo mail"
+                }
+            ]
+        },
+        {
+            "query": "Deleting an account(website) from Google Analytics?",
+            "topScoringIntent": {
+                "score": 0.09727117,
+                "intent": "Find Alternative"
+            },
+            "intents": [
+                {
+                    "score": 0.09727117,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0827062,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0273528341,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0231680684,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.01672258,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0135370195,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.007959047,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.007946878,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 49,
+                    "startIndex": 34,
+                    "score": 0.5088525,
+                    "type": "WebService",
+                    "entity": "google analytics"
+                }
+            ]
+        },
+        {
+            "query": "How to delete my imgur account?",
+            "topScoringIntent": {
+                "score": 0.9059751,
+                "intent": "Delete Account"
+            },
+            "intents": [
+                {
+                    "score": 0.9059751,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0114049241,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0103629818,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.008899334,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.00644854968,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.00606144359,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.005157209,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.00485525839,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 21,
+                    "startIndex": 17,
+                    "score": 0.9408785,
+                    "type": "WebService",
+                    "entity": "imgur"
+                }
+            ]
+        },
+        {
+            "query": "How to change my Uber password or delete the account?",
+            "topScoringIntent": {
+                "score": 0.6671985,
+                "intent": "Delete Account"
+            },
+            "intents": [
+                {
+                    "score": 0.6671985,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.149061382,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.0102543784,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.00990254,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0098023,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.008938613,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.00751981325,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.00541620469,
+                    "intent": "Download Video"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "How to delete a Sify Mail account",
+            "topScoringIntent": {
+                "score": 0.923621237,
+                "intent": "Delete Account"
+            },
+            "intents": [
+                {
+                    "score": 0.923621237,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0155757992,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0118551627,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.007885466,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.00655343,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.00354756671,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.00349472766,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.00245879637,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 19,
+                    "startIndex": 16,
+                    "score": 0.49620223,
+                    "type": "WebService",
+                    "entity": "sify"
+                }
+            ]
+        },
+        {
+            "query": "How to permanently delete a 37signals ID",
+            "topScoringIntent": {
+                "score": 0.473119676,
+                "intent": "Delete Account"
+            },
+            "intents": [
+                {
+                    "score": 0.473119676,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.03365974,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0164250489,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0118431728,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.009338206,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.0063182204,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.005751911,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.004035798,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 36,
+                    "startIndex": 28,
+                    "score": 0.6932861,
+                    "type": "WebService",
+                    "entity": "37signals"
+                }
+            ]
+        },
+        {
+            "query": "How can I delete my Hunch account?",
+            "topScoringIntent": {
+                "score": 0.8368141,
+                "intent": "Delete Account"
+            },
+            "intents": [
+                {
+                    "score": 0.8368141,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.009780365,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.009562313,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.00935606,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.009025798,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.008969782,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.007711183,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.00757838,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 24,
+                    "startIndex": 20,
+                    "score": 0.965167761,
+                    "type": "WebService",
+                    "entity": "hunch"
+                }
+            ]
+        },
+        {
+            "query": "Any alternatives to Google Apps for your domain?",
+            "topScoringIntent": {
+                "score": 0.8385989,
+                "intent": "Find Alternative"
+            },
+            "intents": [
+                {
+                    "score": 0.8385989,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0223880075,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0126146292,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0101643084,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.009104556,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.008171529,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.00699751172,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.00682823826,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 25,
+                    "startIndex": 20,
+                    "score": 0.7281412,
+                    "type": "WebService",
+                    "entity": "google"
+                }
+            ]
+        },
+        {
+            "query": "Evernote alternative",
+            "topScoringIntent": {
+                "score": 0.134091616,
+                "intent": "Find Alternative"
+            },
+            "intents": [
+                {
+                    "score": 0.134091616,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.109994151,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0322629139,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0106636751,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.00736643141,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.00141448015,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.00139921741,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.0012575885,
+                    "intent": "Export Data"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Alternatives to LibraryThing",
+            "topScoringIntent": {
+                "score": 0.9838432,
+                "intent": "Find Alternative"
+            },
+            "intents": [
+                {
+                    "score": 0.9838432,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0226981156,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.006108081,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.00368080148,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.00364873861,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.00115154567,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.001093963,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.0007565508,
+                    "intent": "Sync Accounts"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "What are the alternatives to Facebook/Meetup for Event Planning",
+            "topScoringIntent": {
+                "score": 0.6184509,
+                "intent": "Find Alternative"
+            },
+            "intents": [
+                {
+                    "score": 0.6184509,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0170821343,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.0169127,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0161199756,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0157028213,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.010768651,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.0103915827,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.007168391,
+                    "intent": "Download Video"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Is there a free and privacy-aware alternative to Google?",
+            "topScoringIntent": {
+                "score": 0.09840998,
+                "intent": "Sync Accounts"
+            },
+            "intents": [
+                {
+                    "score": 0.09840998,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0740762055,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0262090713,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0200045966,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.01957188,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0190176126,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.01594345,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.01279056,
+                    "intent": "Download Video"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 54,
+                    "startIndex": 49,
+                    "score": 0.744309247,
+                    "type": "WebService",
+                    "entity": "google"
+                }
+            ]
+        },
+        {
+            "query": "What alternatives to Google Product Search exist?",
+            "topScoringIntent": {
+                "score": 0.8025179,
+                "intent": "Find Alternative"
+            },
+            "intents": [
+                {
+                    "score": 0.8025179,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0184029154,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0144904247,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.01015799,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.00867078,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.007695531,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.00718491245,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.00598133169,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 34,
+                    "startIndex": 21,
+                    "score": 0.591762245,
+                    "type": "WebService",
+                    "entity": "google product"
+                }
+            ]
+        },
+        {
+            "query": "Photo Sharing Site (alternative to flickr) supporting OpenID sign in?",
+            "topScoringIntent": {
+                "score": 0.1251434,
+                "intent": "Find Alternative"
+            },
+            "intents": [
+                {
+                    "score": 0.1251434,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0338340625,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0281938687,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.0247375,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0231569242,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.02082714,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.01706616,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.0112603307,
+                    "intent": "Download Video"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Any good alternative to Google Alerts?",
+            "topScoringIntent": {
+                "score": 0.15208593,
+                "intent": "Find Alternative"
+            },
+            "intents": [
+                {
+                    "score": 0.15208593,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.04903733,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0261457171,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0174830053,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0157906488,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.008899792,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.007314806,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.00597181357,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 36,
+                    "startIndex": 24,
+                    "score": 0.582505465,
+                    "type": "WebService",
+                    "entity": "google alerts"
+                }
+            ]
+        },
+        {
+            "query": "Good wireframing apps?",
+            "topScoringIntent": {
+                "score": 0.138692334,
+                "intent": "None"
+            },
+            "intents": [
+                {
+                    "score": 0.138692334,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.03774527,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0201051123,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0133700352,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0103502907,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.00410957262,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.00367211341,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.003423527,
+                    "intent": "Export Data"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Is there a HTML alternative to Prezi?",
+            "topScoringIntent": {
+                "score": 0.08190128,
+                "intent": "Find Alternative"
+            },
+            "intents": [
+                {
+                    "score": 0.08190128,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0328884646,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0243609771,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0235194173,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.01504911,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0136999208,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.0121338582,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.009108525,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Any alternatives to Google Streetview?",
+            "topScoringIntent": {
+                "score": 0.8235858,
+                "intent": "Find Alternative"
+            },
+            "intents": [
+                {
+                    "score": 0.8235858,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0193533264,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0106375664,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.009003391,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.00880467147,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0065458375,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.00445875525,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.00389007851,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 36,
+                    "startIndex": 20,
+                    "score": 0.6566012,
+                    "type": "WebService",
+                    "entity": "google streetview"
+                }
+            ]
+        },
+        {
+            "query": "Zencoder alternatives?",
+            "topScoringIntent": {
+                "score": 0.975352049,
+                "intent": "Find Alternative"
+            },
+            "intents": [
+                {
+                    "score": 0.975352049,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0217588134,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.006086502,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.005254259,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.00379851554,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.00143780629,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.00120819826,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.0008777926,
+                    "intent": "Sync Accounts"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 7,
+                    "startIndex": 0,
+                    "score": 0.6670004,
+                    "type": "WebService",
+                    "entity": "zencoder"
+                }
+            ]
+        },
+        {
+            "query": "Alternatives to discontinued Google Calendar Appointment Slots",
+            "topScoringIntent": {
+                "score": 0.649403036,
+                "intent": "Find Alternative"
+            },
+            "intents": [
+                {
+                    "score": 0.649403036,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0287526511,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0201878045,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0129245566,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.007308415,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.00591236027,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.005754605,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.004385524,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 43,
+                    "startIndex": 29,
+                    "score": 0.317196846,
+                    "type": "WebService",
+                    "entity": "google calendar"
+                }
+            ]
+        },
+        {
+            "query": "Q&A Platform similar to Stack Exchange model?",
+            "topScoringIntent": {
+                "score": 0.03699326,
+                "intent": "Delete Account"
+            },
+            "intents": [
+                {
+                    "score": 0.03699326,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.03510952,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.030828381,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0268761087,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.024772061,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0197791271,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.0140582826,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.013335526,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Can I Share/Sync My Picasa Web Albums Automatically to My Facebook Account?",
+            "topScoringIntent": {
+                "score": 0.178066388,
+                "intent": "Delete Account"
+            },
+            "intents": [
+                {
+                    "score": 0.178066388,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.160711765,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0339080021,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.0230618212,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.01690937,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0134159205,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.009197622,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.009004073,
+                    "intent": "Download Video"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 65,
+                    "startIndex": 58,
+                    "score": 0.7734633,
+                    "type": "WebService",
+                    "entity": "facebook"
+                }
+            ]
+        },
+        {
+            "query": "Sync not export Facebook events with Google Apps calendar",
+            "topScoringIntent": {
+                "score": 0.376381546,
+                "intent": "Sync Accounts"
+            },
+            "intents": [
+                {
+                    "score": 0.376381546,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.03358961,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.02992716,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0271441,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.01698428,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.00716008246,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.007002856,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.006836109,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 47,
+                    "startIndex": 37,
+                    "score": 0.404251039,
+                    "type": "WebService",
+                    "entity": "google apps"
+                }
+            ]
+        },
+        {
+            "query": "How do I sync Facebook Twitter & Foursquare?",
+            "topScoringIntent": {
+                "score": 0.153793976,
+                "intent": "Sync Accounts"
+            },
+            "intents": [
+                {
+                    "score": 0.153793976,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.04397915,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0191138573,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.0190029517,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0158796273,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0132766524,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0129405409,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.010499957,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 29,
+                    "startIndex": 23,
+                    "score": 0.6454597,
+                    "type": "WebService",
+                    "entity": "twitter"
+                }
+            ]
+        },
+        {
+            "query": "Google Calendar not syncing calendars that have been added by URL with Windows 10 Calendar",
+            "topScoringIntent": {
+                "score": 0.237291127,
+                "intent": "Sync Accounts"
+            },
+            "intents": [
+                {
+                    "score": 0.237291127,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0414370857,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0304454658,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.02700068,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0239711646,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.02044531,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.0150121637,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.009316123,
+                    "intent": "Download Video"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 14,
+                    "startIndex": 0,
+                    "score": 0.48035413,
+                    "type": "WebService",
+                    "entity": "google calendar"
+                }
+            ]
+        },
+        {
+            "query": "Google Contact Synchronization on the iPhone 3G",
+            "topScoringIntent": {
+                "score": 0.06581508,
+                "intent": "None"
+            },
+            "intents": [
+                {
+                    "score": 0.06581508,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0558973551,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0279114526,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0266941581,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.013260291,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.008754372,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.008746877,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.007907336,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Gmail user set up through Google Apps can't change their password",
+            "topScoringIntent": {
+                "score": 0.154170662,
+                "intent": "Change Password"
+            },
+            "intents": [
+                {
+                    "score": 0.154170662,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.0607546046,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.04680535,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.030639207,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.022016013,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0148616461,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.0105535053,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.006452499,
+                    "intent": "Download Video"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "How do I change my password on ebay?",
+            "topScoringIntent": {
+                "score": 0.481847048,
+                "intent": "Change Password"
+            },
+            "intents": [
+                {
+                    "score": 0.481847048,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.0404002219,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0203391258,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0153436223,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.01329706,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0113285072,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.0112310313,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.00806592,
+                    "intent": "Filter Spam"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Gmail recover password while logged in Iphone",
+            "topScoringIntent": {
+                "score": 0.0745260045,
+                "intent": "Filter Spam"
+            },
+            "intents": [
+                {
+                    "score": 0.0745260045,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0603363328,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0299377926,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.0244217534,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.01389978,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.007432538,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.00742786843,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.006598977,
+                    "intent": "Export Data"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "How to retrieve forgotten Wordpress Admin password",
+            "topScoringIntent": {
+                "score": 0.03301821,
+                "intent": "Change Password"
+            },
+            "intents": [
+                {
+                    "score": 0.03301821,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.0317975767,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.029815631,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0293872319,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.0248200949,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0142894089,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.009761887,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.008882731,
+                    "intent": "Sync Accounts"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "How to retrieve a stolen Yahoo account's password?",
+            "topScoringIntent": {
+                "score": 0.1226432,
+                "intent": "Delete Account"
+            },
+            "intents": [
+                {
+                    "score": 0.1226432,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.06017638,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.0305664334,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0186025035,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0163770448,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0133076012,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.0123714656,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0107227154,
+                    "intent": "Download Video"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Users can't reset their passwords anymore on Google Apps?",
+            "topScoringIntent": {
+                "score": 0.05442909,
+                "intent": "Sync Accounts"
+            },
+            "intents": [
+                {
+                    "score": 0.05442909,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.04134048,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0302960575,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0281008035,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0239540711,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.0238185544,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.0197616387,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0106299045,
+                    "intent": "Download Video"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 55,
+                    "startIndex": 45,
+                    "score": 0.70911,
+                    "type": "WebService",
+                    "entity": "google apps"
+                }
+            ]
+        },
+        {
+            "query": "Does moving a mail to the IMAP spam folder trains Gmail's spam filter?",
+            "topScoringIntent": {
+                "score": 0.878267646,
+                "intent": "Filter Spam"
+            },
+            "intents": [
+                {
+                    "score": 0.878267646,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.02307639,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0188501514,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.0128544047,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.0120844319,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0113191279,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.009745692,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.007179905,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 54,
+                    "startIndex": 50,
+                    "score": 0.7127191,
+                    "type": "WebService",
+                    "entity": "gmail"
+                }
+            ]
+        },
+        {
+            "query": "How can I auto-delete some spam from Gmail?",
+            "topScoringIntent": {
+                "score": 0.661058366,
+                "intent": "Filter Spam"
+            },
+            "intents": [
+                {
+                    "score": 0.661058366,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.144332483,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0144162131,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0127901211,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.008873884,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.006271892,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.00586775737,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.004292456,
+                    "intent": "Find Alternative"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 41,
+                    "startIndex": 37,
+                    "score": 0.728791356,
+                    "type": "WebService",
+                    "entity": "gmail"
+                }
+            ]
+        },
+        {
+            "query": "When I move spam to my inbox it goes back into the spam again",
+            "topScoringIntent": {
+                "score": 0.818188548,
+                "intent": "Filter Spam"
+            },
+            "intents": [
+                {
+                    "score": 0.818188548,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0265997052,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0212504752,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.0153118363,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.0124089643,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0109920818,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.009339203,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.00501324236,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "How to send messages to spam in Gmail filter?",
+            "topScoringIntent": {
+                "score": 0.9295253,
+                "intent": "Filter Spam"
+            },
+            "intents": [
+                {
+                    "score": 0.9295253,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.013888835,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.01142228,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.01013976,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.00777116558,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.007556916,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.006808029,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.00500269467,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 36,
+                    "startIndex": 32,
+                    "score": 0.787053347,
+                    "type": "WebService",
+                    "entity": "gmail"
+                }
+            ]
+        },
+        {
+            "query": "How do I disable the spam filter in Gmail?",
+            "topScoringIntent": {
+                "score": 0.846549,
+                "intent": "Filter Spam"
+            },
+            "intents": [
+                {
+                    "score": 0.846549,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0352340974,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0138023943,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.009669463,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.00806349,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0069442587,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.00607797,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.005709049,
+                    "intent": "Find Alternative"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 40,
+                    "startIndex": 36,
+                    "score": 0.830607235,
+                    "type": "WebService",
+                    "entity": "gmail"
+                }
+            ]
+        },
+        {
+            "query": "How to check your Gmail spam label for good emails",
+            "topScoringIntent": {
+                "score": 0.840688646,
+                "intent": "Filter Spam"
+            },
+            "intents": [
+                {
+                    "score": 0.840688646,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0132076992,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.01253964,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.01201998,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.01047912,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.009404129,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.008549901,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.006022653,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 22,
+                    "startIndex": 18,
+                    "score": 0.479842,
+                    "type": "WebService",
+                    "entity": "gmail"
+                }
+            ]
+        },
+        {
+            "query": "Mark large numbers of messages as \"not spam\"",
+            "topScoringIntent": {
+                "score": 0.7008966,
+                "intent": "Filter Spam"
+            },
+            "intents": [
+                {
+                    "score": 0.7008966,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0174776539,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0133766169,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0123767229,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0109657543,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.009501938,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.00885615,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.007772144,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "What are alternatives to Postini for spam filtering?",
+            "topScoringIntent": {
+                "score": 0.483422518,
+                "intent": "Find Alternative"
+            },
+            "intents": [
+                {
+                    "score": 0.483422518,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.331339926,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.00655662455,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.00644131564,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.00604235427,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.00580270961,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.00524831424,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.005030157,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "How to remove spam filter for Google Apps email",
+            "topScoringIntent": {
+                "score": 0.717505157,
+                "intent": "Filter Spam"
+            },
+            "intents": [
+                {
+                    "score": 0.717505157,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0234257132,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0193388239,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.01831383,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.00874809548,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.00724777952,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.006638753,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.0046829693,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Does marking an email as spam in Gmail affect the filter for everyone?",
+            "topScoringIntent": {
+                "score": 0.6456259,
+                "intent": "Filter Spam"
+            },
+            "intents": [
+                {
+                    "score": 0.6456259,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0218091086,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0206522122,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.01731976,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.014348805,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0123912087,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0112893954,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.009793292,
+                    "intent": "Download Video"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 37,
+                    "startIndex": 33,
+                    "score": 0.7350835,
+                    "type": "WebService",
+                    "entity": "gmail"
+                }
+            ]
+        },
+        {
+            "query": "How can I prevent/lessen event spam on Facebook?",
+            "topScoringIntent": {
+                "score": 0.478068441,
+                "intent": "Filter Spam"
+            },
+            "intents": [
+                {
+                    "score": 0.478068441,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0226188712,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0185853988,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.01700895,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0137307243,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.0120676178,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.009219344,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.008041281,
+                    "intent": "Find Alternative"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "Do emails auto-forwarded from one Gmail account to another stop if marked as spam?",
+            "topScoringIntent": {
+                "score": 0.464711577,
+                "intent": "Filter Spam"
+            },
+            "intents": [
+                {
+                    "score": 0.464711577,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.06761208,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.041794274,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0270277765,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.0151248565,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.00966784,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.009126663,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.00739829242,
+                    "intent": "None"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 38,
+                    "startIndex": 34,
+                    "score": 0.8523794,
+                    "type": "WebService",
+                    "entity": "gmail"
+                }
+            ]
+        },
+        {
+            "query": "Gmail's filter for SPAM folder and/or keywords in multiple fields",
+            "topScoringIntent": {
+                "score": 0.668200135,
+                "intent": "Filter Spam"
+            },
+            "intents": [
+                {
+                    "score": 0.668200135,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.02164328,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0161228739,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.0156034678,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0141462721,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0133448895,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0126992315,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.008084627,
+                    "intent": "Download Video"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 4,
+                    "startIndex": 0,
+                    "score": 0.6991027,
+                    "type": "WebService",
+                    "entity": "gmail"
+                }
+            ]
+        },
+        {
+            "query": "Get rid of Russian junk from my Gmail",
+            "topScoringIntent": {
+                "score": 0.0816442445,
+                "intent": "Filter Spam"
+            },
+            "intents": [
+                {
+                    "score": 0.0816442445,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.055544056,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0257129278,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0227923226,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0124390777,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0122861881,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.008010462,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.00776870549,
+                    "intent": "Download Video"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 36,
+                    "startIndex": 32,
+                    "score": 0.8404957,
+                    "type": "WebService",
+                    "entity": "gmail"
+                }
+            ]
+        },
+        {
+            "query": "Embedding stop time in a YouTube video link",
+            "topScoringIntent": {
+                "score": 0.07720381,
+                "intent": "Download Video"
+            },
+            "intents": [
+                {
+                    "score": 0.07720381,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.03921421,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0377243273,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.03068631,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0139076831,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0129921054,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0114287036,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.007990248,
+                    "intent": "Change Password"
+                }
+            ],
+            "entities": [
+                {
+                    "endIndex": 31,
+                    "startIndex": 25,
+                    "score": 0.6151797,
+                    "type": "WebService",
+                    "entity": "youtube"
+                }
+            ]
+        },
+        {
+            "query": "Is there a catch to PayPal's Premier account type?",
+            "topScoringIntent": {
+                "score": 0.166625664,
+                "intent": "Delete Account"
+            },
+            "intents": [
+                {
+                    "score": 0.166625664,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0273337979,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0252305325,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.02371063,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.0190401431,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.01629631,
+                    "intent": "None"
+                },
+                {
+                    "score": 0.0140494034,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.0112506812,
+                    "intent": "Download Video"
+                }
+            ],
+            "entities": []
+        },
+        {
+            "query": "How can I get OkCupid search to show only matches within 5 miles of me?",
+            "topScoringIntent": {
+                "score": 0.06749451,
+                "intent": "Sync Accounts"
+            },
+            "intents": [
+                {
+                    "score": 0.06749451,
+                    "intent": "Sync Accounts"
+                },
+                {
+                    "score": 0.06631018,
+                    "intent": "Export Data"
+                },
+                {
+                    "score": 0.0453374349,
+                    "intent": "Delete Account"
+                },
+                {
+                    "score": 0.0323689,
+                    "intent": "Change Password"
+                },
+                {
+                    "score": 0.02619845,
+                    "intent": "Find Alternative"
+                },
+                {
+                    "score": 0.0219973866,
+                    "intent": "Filter Spam"
+                },
+                {
+                    "score": 0.0161198378,
+                    "intent": "Download Video"
+                },
+                {
+                    "score": 0.014666169,
+                    "intent": "None"
+                }
+            ],
+            "entities": []
+        }
+    ]
+}

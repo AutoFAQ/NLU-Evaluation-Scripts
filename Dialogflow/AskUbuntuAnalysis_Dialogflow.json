@@ -1,0 +1,71 @@
+[
+    {
+        "intents": [
+            {
+                "Default Fallback Intent": [
+                    {
+                        "truePos": 0,
+                        "falseNeg": 0,
+                        "falsePos": 18,
+                        "precision": 0.0,
+                        "recall": "n.a.",
+                        "f1": "n.a."
+                    }
+                ],
+                "None": [
+                    {
+                        "truePos": 0,
+                        "falseNeg": 5,
+                        "falsePos": 0,
+                        "precision": "n.a.",
+                        "recall": 0.0,
+                        "f1": "n.a."
+                    }
+                ],
+                "Make Update": [
+                    {
+                        "truePos": 35,
+                        "falseNeg": 2,
+                        "falsePos": 2,
+                        "precision": 0.9459459459459459,
+                        "recall": 0.9459459459459459,
+                        "f1": 0.9459459459459459
+                    }
+                ],
+                "Setup Printer": [
+                    {
+                        "truePos": 13,
+                        "falseNeg": 0,
+                        "falsePos": 0,
+                        "precision": 1.0,
+                        "recall": 1.0,
+                        "f1": 1.0
+                    }
+                ],
+                "Shutdown Computer": [
+                    {
+                        "truePos": 14,
+                        "falseNeg": 0,
+                        "falsePos": 0,
+                        "precision": 1.0,
+                        "recall": 1.0,
+                        "f1": 1.0
+                    }
+                ],
+                "Software Recommendation": [
+                    {
+                        "truePos": 26,
+                        "falseNeg": 14,
+                        "falsePos": 1,
+                        "precision": 0.9629629629629629,
+                        "recall": 0.65,
+                        "f1": 0.7761194029850746
+                    }
+                ],
+                "precision": 0.8073394495412844,
+                "recall": 0.8073394495412844,
+                "f1": 0.8073394495412844
+            }
+        ]
+    }
+]
