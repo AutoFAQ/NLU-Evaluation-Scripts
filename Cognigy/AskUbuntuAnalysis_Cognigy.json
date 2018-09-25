@@ -16,46 +16,106 @@
                     {
                         "truePos": 1,
                         "falseNeg": 4,
-                        "falsePos": 1,
-                        "precision": 0.5,
+                        "falsePos": 2,
+                        "precision": 0.3333333333333333,
                         "recall": 0.2,
-                        "f1": 0.28571428571428575
+                        "f1": 0.25
                     }
                 ],
                 "Setup Printer": [
                     {
                         "truePos": 13,
                         "falseNeg": 0,
-                        "falsePos": 1,
-                        "precision": 0.9285714285714286,
+                        "falsePos": 2,
+                        "precision": 0.8666666666666667,
                         "recall": 1.0,
-                        "f1": 0.962962962962963
+                        "f1": 0.9285714285714286
                     }
                 ],
                 "Make Update": [
                     {
-                        "truePos": 35,
-                        "falseNeg": 2,
-                        "falsePos": 5,
-                        "precision": 0.875,
-                        "recall": 0.9459459459459459,
-                        "f1": 0.9090909090909091
+                        "truePos": 32,
+                        "falseNeg": 5,
+                        "falsePos": 3,
+                        "precision": 0.9142857142857143,
+                        "recall": 0.8648648648648649,
+                        "f1": 0.888888888888889
                     }
                 ],
                 "Software Recommendation": [
                     {
                         "truePos": 34,
                         "falseNeg": 6,
-                        "falsePos": 4,
-                        "precision": 0.8947368421052632,
+                        "falsePos": 7,
+                        "precision": 0.8292682926829268,
                         "recall": 0.85,
-                        "f1": 0.8717948717948718
+                        "f1": 0.8395061728395061
                     }
                 ],
-                "precision": 0.8899082568807339,
-                "recall": 0.8899082568807339,
-                "f1": 0.8899082568807339
+                "precision": 0.8623853211009175,
+                "recall": 0.8623853211009175,
+                "f1": 0.8623853211009176
             }
-        ]
+        ],
+        "entities": [
+            {
+                "UbuntuVersion": [
+                    {
+                        "truePos": 32,
+                        "falseNeg": 46,
+                        "falsePos": 6,
+                        "precision": 0.8421052631578947,
+                        "recall": 0.41025641025641024,
+                        "f1": 0.5517241379310346
+                    }
+                ],
+                "Printer": [
+                    {
+                        "truePos": 0,
+                        "falseNeg": 12,
+                        "falsePos": 0,
+                        "precision": "n.a.",
+                        "recall": 0.0,
+                        "f1": "n.a."
+                    }
+                ],
+                "SoftwareName": [
+                    {
+                        "truePos": 0,
+                        "falseNeg": 4,
+                        "falsePos": 0,
+                        "precision": "n.a.",
+                        "recall": 0.0,
+                        "f1": "n.a."
+                    }
+                ],
+                "keyword": [
+                    {
+                        "truePos": 0,
+                        "falseNeg": 0,
+                        "falsePos": 4,
+                        "precision": 0.0,
+                        "recall": "n.a.",
+                        "f1": "n.a."
+                    }
+                ],
+                "keyphrase": [
+                    {
+                        "truePos": 0,
+                        "falseNeg": 0,
+                        "falsePos": 5,
+                        "precision": 0.0,
+                        "recall": "n.a.",
+                        "f1": "n.a."
+                    }
+                ],
+                "precision": 0.6808510638297872,
+                "recall": 0.3404255319148936,
+                "f1": 0.4539007092198582
+            }
+        ],
+        "precision": 0.8076923076923077,
+        "recall": 0.6206896551724138,
+        "f1": 0.701949860724234
     }
 ]

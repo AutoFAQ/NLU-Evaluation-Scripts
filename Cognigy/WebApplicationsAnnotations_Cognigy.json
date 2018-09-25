@@ -24,7 +24,7 @@
         {
             "query": "Is it possible to export my data from Trello to back it up?",
             "topScoringIntent": {
-                "intent": "Find Alternative"
+                "intent": "Filter Spam"
             },
             "entities": []
         },
@@ -45,7 +45,7 @@
         {
             "query": "How do I transfer my photos from Flickr to Picasa?",
             "topScoringIntent": {
-                "intent": "Delete Account"
+                "intent": "Download Video"
             },
             "entities": []
         },
@@ -83,7 +83,7 @@
         {
             "query": "How can I permanently delete my Yahoo mail account?",
             "topScoringIntent": {
-                "intent": "Download Video"
+                "intent": "Delete Account"
             },
             "entities": []
         },
@@ -130,7 +130,7 @@
         {
             "query": "How can I delete my Hunch account?",
             "topScoringIntent": {
-                "intent": "Download Video"
+                "intent": "Delete Account"
             },
             "entities": []
         },
@@ -149,7 +149,7 @@
         {
             "query": "Evernote alternative",
             "topScoringIntent": {
-                "intent": "Sync Accounts"
+                "intent": "Find Alternative"
             },
             "entities": []
         },
@@ -213,7 +213,7 @@
         {
             "query": "Good wireframing apps?",
             "topScoringIntent": {
-                "intent": "Sync Accounts"
+                "intent": "Find Alternative"
             },
             "entities": []
         },
@@ -332,7 +332,7 @@
         {
             "query": "How do I change my password on ebay?",
             "topScoringIntent": {
-                "intent": ""
+                "intent": "Change Password"
             },
             "entities": []
         },
@@ -351,7 +351,7 @@
         {
             "query": "How to retrieve forgotten Wordpress Admin password",
             "topScoringIntent": {
-                "intent": "Delete Account"
+                "intent": "Change Password"
             },
             "entities": []
         },
@@ -446,7 +446,7 @@
         {
             "query": "What are alternatives to Postini for spam filtering?",
             "topScoringIntent": {
-                "intent": "Filter Spam"
+                "intent": "Find Alternative"
             },
             "entities": []
         },
@@ -477,7 +477,7 @@
         {
             "query": "How can I prevent/lessen event spam on Facebook?",
             "topScoringIntent": {
-                "intent": "Filter Spam"
+                "intent": "Download Video"
             },
             "entities": []
         },
@@ -503,7 +503,7 @@
         {
             "query": "Get rid of Russian junk from my Gmail",
             "topScoringIntent": {
-                "intent": "Find Alternative"
+                "intent": "Filter Spam"
             },
             "entities": [
                 {
@@ -527,14 +527,14 @@
         {
             "query": "Is there a catch to PayPal's Premier account type?",
             "topScoringIntent": {
-                "intent": "Find Alternative"
+                "intent": "Delete Account"
             },
             "entities": []
         },
         {
             "query": "How can I get OkCupid search to show only matches within 5 miles of me?",
             "topScoringIntent": {
-                "intent": "Export Data"
+                "intent": "Download Video"
             },
             "entities": []
         }

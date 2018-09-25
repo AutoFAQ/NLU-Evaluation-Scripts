@@ -18,10 +18,10 @@ We have benchmarked Microsoft LUIS and Google's Dialogflow as of June 2018.
 
 The necessary Zip/JSON files to import flows and full annotation and result files are provided in respective folders.
 
-F1-Scores as computed in Braun et al.:
+F1-Scores for Cognigy AI, LUIS and DialogFlow as computed in Braun et al.:
 
 | Platform\Corpus  | Chatbot | Ask Ubuntu | Web Applications | Overall |
 | ---------------- | ------- | ---------- | ---------------- | ------- |
-| Cognigy          | 0.97    | 0.89       | 0.76             | 0.87    |
+| Cognigy          | 1.00    | 0.86       | 0.83             | 0.88    |
 | Luis             | 1.00    | 0.88       | 0.78             | 0.87    |
 | DialogFlow       | 1.00    | 0.80       | 0.76             | 0.83    |

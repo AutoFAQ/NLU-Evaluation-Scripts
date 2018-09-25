@@ -5,14 +5,28 @@
             "topScoringIntent": {
                 "intent": "Software Recommendation"
             },
-            "entities": []
+            "entities": [
+                {
+                    "type": "keyword",
+                    "entity": "epub"
+                },
+                {
+                    "type": "keyphrase",
+                    "entity": "documents"
+                }
+            ]
         },
         {
             "query": "Which PDF Viewer would you recommend?",
             "topScoringIntent": {
-                "intent": "Software Recommendation"
+                "intent": "None"
             },
-            "entities": []
+            "entities": [
+                {
+                    "type": "keyword",
+                    "entity": "epub"
+                }
+            ]
         },
         {
             "query": "What IDEs are available for Ubuntu?",
@@ -38,16 +52,26 @@
         {
             "query": "PDF to word conversion software?",
             "topScoringIntent": {
-                "intent": "Software Recommendation"
+                "intent": "Make Update"
             },
-            "entities": []
+            "entities": [
+                {
+                    "type": "keyword",
+                    "entity": "epub"
+                }
+            ]
         },
         {
             "query": "Is there software that can view .dwg files?",
             "topScoringIntent": {
                 "intent": "Software Recommendation"
             },
-            "entities": []
+            "entities": [
+                {
+                    "type": "keyphrase",
+                    "entity": "documents"
+                }
+            ]
         },
         {
             "query": "What are some good PHP editors?",
@@ -101,7 +125,7 @@
         {
             "query": "Any app that tells me to take regular breaks from working?",
             "topScoringIntent": {
-                "intent": "Make Update"
+                "intent": "Software Recommendation"
             },
             "entities": []
         },
@@ -124,14 +148,24 @@
             "topScoringIntent": {
                 "intent": "Software Recommendation"
             },
-            "entities": []
+            "entities": [
+                {
+                    "type": "keyword",
+                    "entity": "epub"
+                }
+            ]
         },
         {
             "query": "Is there a Linux file manager with a proper drop-down tree view? (like finder in OS X)",
             "topScoringIntent": {
                 "intent": "Software Recommendation"
             },
-            "entities": []
+            "entities": [
+                {
+                    "type": "keyphrase",
+                    "entity": "documents"
+                }
+            ]
         },
         {
             "query": "Which application do you recommend for watching TV (DVB)?",
@@ -152,7 +186,12 @@
             "topScoringIntent": {
                 "intent": "Software Recommendation"
             },
-            "entities": []
+            "entities": [
+                {
+                    "type": "keyphrase",
+                    "entity": "documents"
+                }
+            ]
         },
         {
             "query": "What's the best Wireframing tool?",
@@ -185,14 +224,14 @@
         {
             "query": "A light alternative to gnome-system-monitor?",
             "topScoringIntent": {
-                "intent": "Make Update"
+                "intent": "None"
             },
             "entities": []
         },
         {
             "query": "Software to create a video slideshow?",
             "topScoringIntent": {
-                "intent": "Make Update"
+                "intent": "Software Recommendation"
             },
             "entities": []
         },
@@ -384,7 +423,7 @@
         {
             "query": "Is any offline upgrade from 13.10 to 14.04 possible?",
             "topScoringIntent": {
-                "intent": "Make Update"
+                "intent": "Software Recommendation"
             },
             "entities": [
                 {
@@ -553,6 +592,10 @@
                 {
                     "type": "UbuntuVersion",
                     "entity": "12.04"
+                },
+                {
+                    "type": "keyphrase",
+                    "entity": "documents"
                 }
             ]
         },
@@ -585,7 +628,7 @@
         {
             "query": "update-manager: upgrade to 15.04 rather than 16.04",
             "topScoringIntent": {
-                "intent": "Make Update"
+                "intent": "Software Recommendation"
             },
             "entities": [
                 {
@@ -616,7 +659,7 @@
         {
             "query": "Ho do I update to 13.04 from the beta?",
             "topScoringIntent": {
-                "intent": "Make Update"
+                "intent": "Software Recommendation"
             },
             "entities": [
                 {
@@ -767,7 +810,7 @@
         {
             "query": "Wubi Device /dev/loop0 full. How to get more space?",
             "topScoringIntent": {
-                "intent": "None"
+                "intent": "Software Recommendation"
             },
             "entities": []
         },
@@ -817,7 +860,7 @@
         {
             "query": "In Unity how do I see the details of a given launcher?",
             "topScoringIntent": {
-                "intent": "Software Recommendation"
+                "intent": "Setup Printer"
             },
             "entities": []
         },

@@ -459,7 +459,7 @@
         {
             "query": "when does the bus to röblingweg starts?",
             "topScoringIntent": {
-                "intent": "FindConnection"
+                "intent": "DepartureTime"
             },
             "entities": [
                 {
