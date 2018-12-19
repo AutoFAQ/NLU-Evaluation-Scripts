@@ -5,7 +5,7 @@ We use our own split for the chat corpus provided in `TransportCorpusSplit.json`
 
 Forking their [NLU-Evaluation-Scripts](https://github.com/sebischair/NLU-Evaluation-Scripts), results are obtained by running the converter scripts, importing and setting up respective bots and finally running the analysis scripts.
 
-We have benchmarked Microsoft LUIS and Google's Dialogflow as of June 2018.
+We have benchmarked Microsoft LUIS and Google's Dialogflow as of November 2018.
 
 | corpus           | num of intents | train | test |
 | ---------------- | -------------- | ----- | ---- |
@@ -20,8 +20,9 @@ The necessary Zip/JSON files to import flows and full annotation and result file
 
 F1-Scores for Cognigy AI, LUIS and DialogFlow as computed in Braun et al.:
 
-| Platform\Corpus  | Chatbot | Ask Ubuntu | Web Applications | Overall |
-| ---------------- | ------- | ---------- | ---------------- | ------- |
-| Cognigy          | 1.00    | 0.86       | 0.83             | 0.88    |
-| Luis             | 1.00    | 0.88       | 0.78             | 0.87    |
-| DialogFlow       | 1.00    | 0.80       | 0.76             | 0.83    |
+| Platform\Corpus | Chatbot | Ask Ubuntu | Web Applications | Overall |
+|-----------------|---------|------------|------------------|---------|
+| Cognigy NLU 2.0 | 0.97    | 0.91       | 0.92             | 0.93    |
+| DialogFlow      | 0.93    | 0.85       | 0.80             | 0.87    |
+| LUIS            | 0.98    | 0.90       | 0.81             | 0.91    |
+| Watson          | 0.97    | 0.92       | 0.83             | 0.92    |
