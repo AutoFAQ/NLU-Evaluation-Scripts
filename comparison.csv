@@ -1,0 +1,20 @@
+Corpus,Intent,DialogFlow,Luis,Watson
+chatbot,FindConnection,0.92,0.99,0.98
+chatbot,DepartureTime,0.95,0.97,0.96
+chatbot,F1,0.93,0.98,0.97
+ask ubuntu,Software Recommendation,0.8,0.89,0.90
+ask ubuntu,None,0.27,0,0.29
+ask ubuntu,Shutdown Computer,0.93,1,1.00
+ask ubuntu,Make Update,0.95,0.94,0.95
+ask ubuntu,Setup Printer,0.96,0.89,0.96
+ask ubuntu,F1,0.85,0.9,0.92
+web applications,Find Alternative,0.94,0.88,0.94
+web applications,Delete Account,0.91,0.89,0.82
+web applications,Export Data,0.33,0.86,0.57
+web applications,Sync Accounts,0.8,0.91,0.91
+web applications,None,0.57,0.4,
+web applications,Change Password,0.73,0.67,0.91
+web applications,Filter Spam,0.74,0.92,0.90
+web applications,Download Video,,0,0.00
+web applications,F1,0.8,0.81,0.83
+,,0.87,0.91,0.92
