@@ -5,28 +5,14 @@
             "topScoringIntent": {
                 "intent": "Software Recommendation"
             },
-            "entities": [
-                {
-                    "type": "keyword",
-                    "entity": "epub"
-                },
-                {
-                    "type": "keyphrase",
-                    "entity": "documents"
-                }
-            ]
+            "entities": []
         },
         {
             "query": "Which PDF Viewer would you recommend?",
             "topScoringIntent": {
-                "intent": "None"
+                "intent": "Software Recommendation"
             },
-            "entities": [
-                {
-                    "type": "keyword",
-                    "entity": "epub"
-                }
-            ]
+            "entities": []
         },
         {
             "query": "What IDEs are available for Ubuntu?",
@@ -52,26 +38,16 @@
         {
             "query": "PDF to word conversion software?",
             "topScoringIntent": {
-                "intent": "Make Update"
+                "intent": "Software Recommendation"
             },
-            "entities": [
-                {
-                    "type": "keyword",
-                    "entity": "epub"
-                }
-            ]
+            "entities": []
         },
         {
             "query": "Is there software that can view .dwg files?",
             "topScoringIntent": {
                 "intent": "Software Recommendation"
             },
-            "entities": [
-                {
-                    "type": "keyphrase",
-                    "entity": "documents"
-                }
-            ]
+            "entities": []
         },
         {
             "query": "What are some good PHP editors?",
@@ -83,7 +59,7 @@
         {
             "query": "Is there a software utility to adjust screen gamma/brightness/contrast?",
             "topScoringIntent": {
-                "intent": "Software Recommendation"
+                "intent": "None"
             },
             "entities": []
         },
@@ -111,7 +87,7 @@
         {
             "query": "Tool for recovering deleted data from a flash drive",
             "topScoringIntent": {
-                "intent": "Software Recommendation"
+                "intent": ""
             },
             "entities": []
         },
@@ -148,24 +124,14 @@
             "topScoringIntent": {
                 "intent": "Software Recommendation"
             },
-            "entities": [
-                {
-                    "type": "keyword",
-                    "entity": "epub"
-                }
-            ]
+            "entities": []
         },
         {
             "query": "Is there a Linux file manager with a proper drop-down tree view? (like finder in OS X)",
             "topScoringIntent": {
                 "intent": "Software Recommendation"
             },
-            "entities": [
-                {
-                    "type": "keyphrase",
-                    "entity": "documents"
-                }
-            ]
+            "entities": []
         },
         {
             "query": "Which application do you recommend for watching TV (DVB)?",
@@ -186,12 +152,7 @@
             "topScoringIntent": {
                 "intent": "Software Recommendation"
             },
-            "entities": [
-                {
-                    "type": "keyphrase",
-                    "entity": "documents"
-                }
-            ]
+            "entities": []
         },
         {
             "query": "What's the best Wireframing tool?",
@@ -224,7 +185,7 @@
         {
             "query": "A light alternative to gnome-system-monitor?",
             "topScoringIntent": {
-                "intent": "None"
+                "intent": "Software Recommendation"
             },
             "entities": []
         },
@@ -396,8 +357,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "11.10"
+                    "entity": "11.10",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -415,20 +376,20 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "15.04"
+                    "entity": "15.04",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
         {
             "query": "Is any offline upgrade from 13.10 to 14.04 possible?",
             "topScoringIntent": {
-                "intent": "Software Recommendation"
+                "intent": "Make Update"
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "14.04"
+                    "entity": "14.04",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -439,8 +400,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "12.04"
+                    "entity": "12.04",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -458,8 +419,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "12.04"
+                    "entity": "12.04",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -470,8 +431,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "13.04"
+                    "entity": "13.04",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -482,8 +443,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "15.04"
+                    "entity": "15.04",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -494,8 +455,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "12.10"
+                    "entity": "12.10",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -506,8 +467,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "11.10"
+                    "entity": "11.10",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -518,8 +479,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "9.10"
+                    "entity": "9.10",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -530,20 +491,20 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "15.10"
+                    "entity": "15.10",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
         {
             "query": "How do I update Xubuntu 11.10 to Xubuntu 12.04 LTS?",
             "topScoringIntent": {
-                "intent": "Setup Printer"
+                "intent": "Make Update"
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "11.10"
+                    "entity": "11.10",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -554,8 +515,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "11.10"
+                    "entity": "11.10",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -566,8 +527,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "12.04"
+                    "entity": "12.04",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -578,8 +539,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "12.10"
+                    "entity": "12.10",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -590,12 +551,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "12.04"
-                },
-                {
-                    "type": "keyphrase",
-                    "entity": "documents"
+                    "entity": "12.04",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -613,8 +570,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "12.04"
+                    "entity": "12.04",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -628,12 +585,12 @@
         {
             "query": "update-manager: upgrade to 15.04 rather than 16.04",
             "topScoringIntent": {
-                "intent": "Software Recommendation"
+                "intent": "Make Update"
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "15.04"
+                    "entity": "15.04",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -651,20 +608,20 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "9.10"
+                    "entity": "9.10",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
         {
             "query": "Ho do I update to 13.04 from the beta?",
             "topScoringIntent": {
-                "intent": "Software Recommendation"
+                "intent": "Make Update"
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "13.04"
+                    "entity": "13.04",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -675,8 +632,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "12.10"
+                    "entity": "12.10",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -687,8 +644,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "10.10"
+                    "entity": "10.10",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -699,8 +656,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "12.04"
+                    "entity": "12.04",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -711,8 +668,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "14.04"
+                    "entity": "14.04",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -723,8 +680,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "10.10"
+                    "entity": "10.10",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -735,8 +692,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "14.04 LTS"
+                    "entity": "14.04 LTS",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -754,8 +711,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "11.10"
+                    "entity": "11.10",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -766,8 +723,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "14.04"
+                    "entity": "14.04",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -778,8 +735,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "12.04 LTS"
+                    "entity": "12.04 LTS",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -790,8 +747,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "9.10"
+                    "entity": "9.10",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -802,39 +759,39 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "12.04"
+                    "entity": "12.04",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
         {
             "query": "Wubi Device /dev/loop0 full. How to get more space?",
             "topScoringIntent": {
-                "intent": "Software Recommendation"
+                "intent": null
             },
             "entities": []
         },
         {
             "query": "Using 12.04 can I compile packages with gcc for 10.04?",
             "topScoringIntent": {
-                "intent": "Software Recommendation"
+                "intent": "Make Update"
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "12.04"
+                    "entity": "12.04",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
         {
             "query": "Removing Recently used items in 12.04",
             "topScoringIntent": {
-                "intent": "Software Recommendation"
+                "intent": "None"
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "12.04"
+                    "entity": "12.04",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -845,8 +802,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "11.04"
+                    "entity": "11.04",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -860,7 +817,7 @@
         {
             "query": "In Unity how do I see the details of a given launcher?",
             "topScoringIntent": {
-                "intent": "Setup Printer"
+                "intent": "Software Recommendation"
             },
             "entities": []
         },
@@ -874,14 +831,14 @@
         {
             "query": "Security enhancements prevent mounting /dev/sdb1",
             "topScoringIntent": {
-                "intent": "Software Recommendation"
+                "intent": "None"
             },
             "entities": []
         },
         {
             "query": "How do I show grub when resuming from suspend?",
             "topScoringIntent": {
-                "intent": "Shutdown Computer"
+                "intent": "Make Update"
             },
             "entities": []
         },
@@ -895,7 +852,7 @@
         {
             "query": "Cannot setup HP All in one DJ3630",
             "topScoringIntent": {
-                "intent": "Setup Printer"
+                "intent": "None"
             },
             "entities": []
         },
@@ -906,8 +863,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "15.10"
+                    "entity": "15.10",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -939,8 +896,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "14.04"
+                    "entity": "14.04",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -965,8 +922,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "12.04"
+                    "entity": "12.04",
+                    "type": "UbuntuVersion"
                 }
             ]
         },
@@ -977,8 +934,8 @@
             },
             "entities": [
                 {
-                    "type": "UbuntuVersion",
-                    "entity": "15.10"
+                    "entity": "15.10",
+                    "type": "UbuntuVersion"
                 }
             ]
         },

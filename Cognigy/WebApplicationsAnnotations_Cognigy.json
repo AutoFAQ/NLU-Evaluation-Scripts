@@ -24,7 +24,7 @@
         {
             "query": "Is it possible to export my data from Trello to back it up?",
             "topScoringIntent": {
-                "intent": "Filter Spam"
+                "intent": "Export Data"
             },
             "entities": []
         },
@@ -38,14 +38,14 @@
         {
             "query": "How can I remove myself from a Trello organization?",
             "topScoringIntent": {
-                "intent": "Export Data"
+                "intent": ""
             },
             "entities": []
         },
         {
             "query": "How do I transfer my photos from Flickr to Picasa?",
             "topScoringIntent": {
-                "intent": "Download Video"
+                "intent": "Export Data"
             },
             "entities": []
         },
@@ -56,20 +56,20 @@
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Google Calendar"
+                    "entity": "Google Calendar",
+                    "type": "WebService"
                 }
             ]
         },
         {
             "query": "Archive/export all the blog entries from a RSS feed in Google Reader",
             "topScoringIntent": {
-                "intent": "None"
+                "intent": "Export Data"
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Google Reader"
+                    "entity": "Google Reader",
+                    "type": "WebService"
                 }
             ]
         },
@@ -90,12 +90,12 @@
         {
             "query": "Deleting an account(website) from Google Analytics?",
             "topScoringIntent": {
-                "intent": "Find Alternative"
+                "intent": "Delete Account"
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Google"
+                    "entity": "Google",
+                    "type": "WebService"
                 }
             ]
         },
@@ -141,8 +141,8 @@
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Google"
+                    "entity": "Google",
+                    "type": "WebService"
                 }
             ]
         },
@@ -174,8 +174,8 @@
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Google"
+                    "entity": "Google",
+                    "type": "WebService"
                 }
             ]
         },
@@ -186,8 +186,8 @@
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Google"
+                    "entity": "Google",
+                    "type": "WebService"
                 }
             ]
         },
@@ -205,15 +205,15 @@
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Google"
+                    "entity": "Google",
+                    "type": "WebService"
                 }
             ]
         },
         {
             "query": "Good wireframing apps?",
             "topScoringIntent": {
-                "intent": "Find Alternative"
+                "intent": ""
             },
             "entities": []
         },
@@ -231,8 +231,8 @@
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Google"
+                    "entity": "Google",
+                    "type": "WebService"
                 }
             ]
         },
@@ -250,8 +250,8 @@
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Google Calendar"
+                    "entity": "Google Calendar",
+                    "type": "WebService"
                 }
             ]
         },
@@ -276,8 +276,8 @@
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Google"
+                    "entity": "Google",
+                    "type": "WebService"
                 }
             ]
         },
@@ -288,8 +288,8 @@
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Twitter"
+                    "entity": "Twitter",
+                    "type": "WebService"
                 }
             ]
         },
@@ -300,20 +300,20 @@
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Google Calendar"
+                    "entity": "Google Calendar",
+                    "type": "WebService"
                 }
             ]
         },
         {
             "query": "Google Contact Synchronization on the iPhone 3G",
             "topScoringIntent": {
-                "intent": "Sync Accounts"
+                "intent": null
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Google"
+                    "entity": "Google",
+                    "type": "WebService"
                 }
             ]
         },
@@ -324,8 +324,8 @@
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Gmail"
+                    "entity": "Gmail",
+                    "type": "WebService"
                 }
             ]
         },
@@ -343,8 +343,8 @@
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Gmail"
+                    "entity": "Gmail",
+                    "type": "WebService"
                 }
             ]
         },
@@ -369,8 +369,8 @@
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Google"
+                    "entity": "Google",
+                    "type": "WebService"
                 }
             ]
         },
@@ -384,12 +384,12 @@
         {
             "query": "How can I auto-delete some spam from Gmail?",
             "topScoringIntent": {
-                "intent": "Filter Spam"
+                "intent": "Delete Account"
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Gmail"
+                    "entity": "Gmail",
+                    "type": "WebService"
                 }
             ]
         },
@@ -407,8 +407,8 @@
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Gmail"
+                    "entity": "Gmail",
+                    "type": "WebService"
                 }
             ]
         },
@@ -419,8 +419,8 @@
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Gmail"
+                    "entity": "Gmail",
+                    "type": "WebService"
                 }
             ]
         },
@@ -431,8 +431,8 @@
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Gmail"
+                    "entity": "Gmail",
+                    "type": "WebService"
                 }
             ]
         },
@@ -446,7 +446,7 @@
         {
             "query": "What are alternatives to Postini for spam filtering?",
             "topScoringIntent": {
-                "intent": "Find Alternative"
+                "intent": "Filter Spam"
             },
             "entities": []
         },
@@ -457,8 +457,8 @@
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Google"
+                    "entity": "Google",
+                    "type": "WebService"
                 }
             ]
         },
@@ -469,15 +469,15 @@
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Gmail"
+                    "entity": "Gmail",
+                    "type": "WebService"
                 }
             ]
         },
         {
             "query": "How can I prevent/lessen event spam on Facebook?",
             "topScoringIntent": {
-                "intent": "Download Video"
+                "intent": "Filter Spam"
             },
             "entities": []
         },
@@ -488,8 +488,8 @@
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Gmail"
+                    "entity": "Gmail",
+                    "type": "WebService"
                 }
             ]
         },
@@ -507,20 +507,20 @@
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Gmail"
+                    "entity": "Gmail",
+                    "type": "WebService"
                 }
             ]
         },
         {
             "query": "Embedding stop time in a YouTube video link",
             "topScoringIntent": {
-                "intent": "None"
+                "intent": null
             },
             "entities": [
                 {
-                    "type": "WebService",
-                    "entity": "Youtube"
+                    "entity": "Youtube",
+                    "type": "WebService"
                 }
             ]
         },
@@ -534,7 +534,7 @@
         {
             "query": "How can I get OkCupid search to show only matches within 5 miles of me?",
             "topScoringIntent": {
-                "intent": "Download Video"
+                "intent": "Sync Accounts"
             },
             "entities": []
         }

@@ -1,0 +1,41 @@
+[
+    {
+        "intents": [
+            {
+                "DepartureTime": [
+                    {
+                        "truePos": 35,
+                        "falseNeg": 0,
+                        "falsePos": 3,
+                        "precision": 0.9210526315789473,
+                        "recall": 1.0,
+                        "f1": 0.958904109589041
+                    }
+                ],
+                "FindConnection": [
+                    {
+                        "truePos": 68,
+                        "falseNeg": 3,
+                        "falsePos": 0,
+                        "precision": 1.0,
+                        "recall": 0.9577464788732394,
+                        "f1": 0.9784172661870503
+                    }
+                ],
+                "precision": 0.9716981132075472,
+                "recall": 0.9716981132075472,
+                "f1": 0.9716981132075472
+            }
+        ],
+        "entities": [
+            {
+                "precision": "n.a.",
+                "recall": "n.a.",
+                "f1": "n.a."
+            }
+        ],
+        "precision": 0.9716981132075472,
+        "recall": 0.9716981132075472,
+        "f1": 0.9716981132075472
+    }
+]
