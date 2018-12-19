@@ -1,7 +1,7 @@
 # Methodology
 We reproduce analysis from [Evaluating Natural Language Understanding Services for Conversational Question Answering Systems by Braun, Daniel  and  Hernandez-Mendez, Adrian  and  Matthes, Florian  and  Langen, Manfred (2017)](http://www.aclweb.org/anthology/W17-5522), 
 
-We use our own split for the chat corpus provided in `TransportCorpusSplit.json` as the author's split has not been published and this is the most transparent and reproducible approach. Note results are not directly comparable to the original paper.
+We use our own split for the chat corpus provided in `TransportCorpusSplit.json` as the author's split has not been published and this is the most transparent and reproducible approach. The Ubuntu and Web App corpora use the split from the paper. Note results are therefore not directly comparable to the original paper.
 
 Forking their [NLU-Evaluation-Scripts](https://github.com/sebischair/NLU-Evaluation-Scripts), results are obtained by running the converter scripts, importing and setting up respective bots and finally running the analysis scripts.
 
