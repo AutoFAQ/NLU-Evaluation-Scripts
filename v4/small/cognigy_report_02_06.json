@@ -1,0 +1,845 @@
+{
+    "intent": "weather_query",
+    "intentFlow": "143b1494-4d15-4e86-a568-3489802c922d",
+    "intentId": "5efdd6a0e58f9f10e32c445f",
+    "intentMapperResults": {
+        "scores": [
+            {
+                "id": "5efdd6a0e58f9f10e32c445f",
+                "name": "weather_query",
+                "score": 0.7680167273443504,
+                "negated": false,
+                "confirmationSentence": null,
+                "confirmationSentences": null,
+                "disambiguationSentence": null,
+                "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+            },
+            [
+                {
+                    "id": "5efdd69ae58f9f25bc2c4367",
+                    "name": "alarm_remove",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69ae58f9f6dd82c4363",
+                    "name": "alarm_query",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69be58f9f0a912c437f",
+                    "name": "calendar_remove",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69be58f9f17fb2c438b",
+                    "name": "datetime_convert",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69be58f9f20832c437b",
+                    "name": "calendar_query",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69be58f9f2a6e2c4393",
+                    "name": "email_addcontact",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69be58f9f2e282c436f",
+                    "name": "audio_volume_down",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69be58f9f4f242c439b",
+                    "name": "email_querycontact",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69be58f9f86362c4397",
+                    "name": "email_query",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69be58f9f86b62c4377",
+                    "name": "audio_volume_up",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69be58f9fb7592c4383",
+                    "name": "calendar_set",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69be58f9fc6b42c438f",
+                    "name": "datetime_query",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69be58f9fcd9c2c4373",
+                    "name": "audio_volume_mute",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69be58f9fd3632c436b",
+                    "name": "alarm_set",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69be58f9ff7fc2c4387",
+                    "name": "cooking_recipe",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69ce58f9f17af2c43bb",
+                    "name": "general_negate",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69ce58f9f530c2c43ab",
+                    "name": "general_confirm",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69ce58f9f5a502c43af",
+                    "name": "general_dontcare",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69ce58f9f5dd42c43a7",
+                    "name": "general_commandstop",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69ce58f9f72962c43b3",
+                    "name": "general_explain",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69ce58f9fa52a2c43a3",
+                    "name": "general_affirm",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69ce58f9fdd572c43b7",
+                    "name": "general_joke",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69ce58f9fe9e32c439f",
+                    "name": "email_sendemail",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69de58f9f14472c43d7",
+                    "name": "iot_hue_lightdim",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69de58f9f26b12c43cf",
+                    "name": "iot_coffee",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69de58f9f35102c43c7",
+                    "name": "general_repeat",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69de58f9f42a32c43c3",
+                    "name": "general_quirky",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69de58f9f70f72c43db",
+                    "name": "iot_hue_lightoff",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69de58f9f7c682c43bf",
+                    "name": "general_praise",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69de58f9f994f2c43cb",
+                    "name": "iot_cleaning",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69de58f9fc6f32c43d3",
+                    "name": "iot_hue_lightchange",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69de58f9fd6fa2c43df",
+                    "name": "iot_hue_lighton",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69ee58f9f00c52c440b",
+                    "name": "play_audiobook",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69ee58f9f081c2c43fb",
+                    "name": "music_likeness",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69ee58f9f35102c43eb",
+                    "name": "iot_wemo_on",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69ee58f9f44402c43f3",
+                    "name": "lists_query",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69ee58f9f584d2c43e3",
+                    "name": "iot_hue_lightup",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69ee58f9f66932c43ef",
+                    "name": "lists_createoradd",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69ee58f9f73f52c43f7",
+                    "name": "lists_remove",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69ee58f9f7ce32c43e7",
+                    "name": "iot_wemo_off",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69ee58f9f8d732c43ff",
+                    "name": "music_query",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69ee58f9fcb002c4407",
+                    "name": "news_query",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69ee58f9fed9f2c4403",
+                    "name": "music_settings",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69fe58f9f094e2c440f",
+                    "name": "play_game",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69fe58f9f1f2f2c4417",
+                    "name": "play_podcasts",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69fe58f9f29442c441b",
+                    "name": "play_radio",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69fe58f9f2c0e2c441f",
+                    "name": "qa_currency",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69fe58f9f49e72c442f",
+                    "name": "qa_stock",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69fe58f9f5fac2c4427",
+                    "name": "qa_factoid",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69fe58f9f61192c4433",
+                    "name": "recommendation_events",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69fe58f9f63b62c4423",
+                    "name": "qa_definition",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69fe58f9f7c482c443b",
+                    "name": "recommendation_movies",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69fe58f9f7da02c4437",
+                    "name": "recommendation_locations",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69fe58f9fbbaf2c442b",
+                    "name": "qa_maths",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd69fe58f9fce992c4413",
+                    "name": "play_music",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd6a0e58f9f550c2c444b",
+                    "name": "takeaway_query",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd6a0e58f9f6cd92c444f",
+                    "name": "transport_query",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd6a0e58f9f73f82c445b",
+                    "name": "transport_traffic",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd6a0e58f9f78072c4457",
+                    "name": "transport_ticket",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd6a0e58f9f83112c4443",
+                    "name": "social_query",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd6a0e58f9f88e02c443f",
+                    "name": "social_post",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd6a0e58f9fabbd2c4453",
+                    "name": "transport_taxi",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ],
+            [
+                {
+                    "id": "5efdd6a0e58f9fbbe12c4447",
+                    "name": "takeaway_order",
+                    "score": 0.0,
+                    "negated": false,
+                    "confirmationSentence": null,
+                    "confirmationSentences": [],
+                    "disambiguationSentence": null,
+                    "flow": "143b1494-4d15-4e86-a568-3489802c922d"
+                }
+            ]
+        ],
+        "finalIntentName": "weather_query",
+        "finalIntentScore": 0.7680167273443504,
+        "finalIntentNegated": false,
+        "finalIntentConfirmationSentence": null,
+        "finalIntentDisambiguationSentence": null,
+        "highestFlow": "143b1494-4d15-4e86-a568-3489802c922d"
+    },
+    "slots": {
+        "DATE": [
+            {
+                "data": {
+                    "start": {
+                        "year": 2020,
+                        "month": 7,
+                        "day": 6,
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "millisecond": 0,
+                        "weekday": 1,
+                        "dayOfWeek": "Monday",
+                        "ISODate": "2020-07-06T00:00:00.000+02:00",
+                        "grain": "day"
+                    },
+                    "end": null
+                },
+                "text": "today",
+                "offset": {
+                    "start": 31,
+                    "end": 36
+                }
+            }
+        ]
+    },
+    "systemSlots": {
+        "DATE": [
+            {
+                "data": {
+                    "start": {
+                        "year": 2020,
+                        "month": 7,
+                        "day": 6,
+                        "hour": 0,
+                        "minute": 0,
+                        "second": 0,
+                        "millisecond": 0,
+                        "weekday": 1,
+                        "dayOfWeek": "Monday",
+                        "ISODate": "2020-07-06T00:00:00.000+02:00",
+                        "grain": "day"
+                    },
+                    "end": null
+                },
+                "text": "today",
+                "offset": {
+                    "start": 31,
+                    "end": 36
+                }
+            }
+        ]
+    },
+    "score": 0.7680167273443504,
+    "type": "ynQuestion",
+    "tokens": [
+        "are",
+        "there",
+        "any",
+        "tornado",
+        "warnings",
+        "today"
+    ]
+}

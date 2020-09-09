@@ -1,24 +1,36 @@
-# Methodology
-We reproduce analysis from [Evaluating Natural Language Understanding Services for Conversational Question Answering Systems by Braun, Daniel  and  Hernandez-Mendez, Adrian  and  Matthes, Florian  and  Langen, Manfred (2017)](http://www.aclweb.org/anthology/W17-5522), 
+Cognigy NLU evaluation benchmarks.
 
-We use our own split for the chat corpus provided in `TransportCorpusSplit.json` as the author's split has not been published and this is the most transparent and reproducible approach. The Ubuntu and Web App corpora use the split from the paper. Note results are therefore not directly comparable to the original paper.
+# v4
 
-Forking their [NLU-Evaluation-Scripts](https://github.com/sebischair/NLU-Evaluation-Scripts), results are obtained by running the converter scripts, importing and setting up respective bots and finally running the analysis scripts.
+Using data [Benchmarking Natural Language Understanding Services for Building Conversational Agents (2019)](http://arxiv.org/abs/1903.05566), for details and reproduction see folder `v4`.
 
-We have benchmarked Microsoft LUIS and Google's Dialogflow as of November 2018.
+## Small
 
-| corpus           | num of intents | train | test |
-| ---------------- | -------------- | ----- | ---- |
-| Chatbot          | 2              | 100   | 106  |
-| Ask Ubuntu       | 5              | 53    | 109  |
-| Web Applications | 8              | 30    | 59   |
+640 Training Setences - 10 Sentences per Intent
+
+1076 Test Sentences
+
+|            | Cognigy | DialogFlow | Microsoft LUIS | Watson |
+|------------|---------|------------|----------------|--------|
+| Accuracy   | 0.751   | 0.656      | 0.655          | 0.69   |
+| F1 (macro) | 0.748   | 0.657      | 0.641          | 0.686  |
 
 
-# Results
+## Large
 
-The necessary Zip/JSON files to import flows and full annotation and result files are provided in respective folders.
+1908 Training Setences - ~30 Sentences per Intent
+5518 Test Sentences
 
-F1-Scores for Cognigy AI, LUIS and DialogFlow as computed in Braun et al.:
+|            | Cognigy | DialogFlow | Microsoft LUIS | Watson |
+|------------|---------|------------|----------------|--------|
+| Accuracy   | 0.846   | 0.761      | 0.788          | 0.81   |
+| F1 (macro) | 0.827   | 0.758      | 0.776          | 0.804  |
+
+
+
+# v3
+
+Using data [Evaluating Natural Language Understanding Services for Conversational Question Answering Systems by Braun, Daniel  and  Hernandez-Mendez, Adrian  and  Matthes, Florian  and  Langen, Manfred (2017)](http://www.aclweb.org/anthology/W17-5522), for details and reproduction see `v3`.
 
 | Platform\Corpus | Chatbot | Ask Ubuntu | Web Applications | Overall |
 |-----------------|---------|------------|------------------|---------|
